@@ -1,10 +1,19 @@
 import requests
 import os
+import platform
 from colorama import Fore, Style, init
 
 try:    
     init(autoreset=True)
-    os.clear()
+    operating_system = platform.system()
+
+    if operating_system == 'Windows':
+        os.system('cls')
+    elif operating_system == 'Linux' or operating_system == 'Darwin':
+        os.system('clear')
+    elif operating_system == 'Android':
+        os.system('clear')
+        
     print(f'''{Fore.RED}
     
      __      _       __                       
