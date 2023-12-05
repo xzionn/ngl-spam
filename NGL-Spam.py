@@ -1,8 +1,10 @@
 import requests
+import os
 from colorama import Fore, Style, init
 
 try:    
     init(autoreset=True)
+    os.clear()
     print(f'''{Fore.RED}
     
      __      _       __                       
