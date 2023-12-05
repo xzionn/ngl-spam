@@ -25,8 +25,8 @@ OR
 ## Example
  
  Spam
-![App Screenshot](assets/example.png)
+![App Screenshot](Assets/example.png)
 
  Result
- ![App Screenshot](assets/result.png)
+ ![App Screenshot](Assets/result.png)
 
