@@ -24,9 +24,8 @@ OR
 
 ## Example
  
- Spam
+ Spam and result
 ![App Screenshot](Assets/example.png)
 
- Result
- ![App Screenshot](Assets/result.png)
+![App Screenshot](Assets/result.png)
 
