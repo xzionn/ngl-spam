@@ -1,6 +1,6 @@
 
 # NGL - SPAMMER
-This tool is used to send spam messages to someone like your friend/girlfriend/boyfriend.
+This tool is used to send spam ngl messages to someone like your friend/girlfriend/boyfriend.
 
 
 ## For the first installation
