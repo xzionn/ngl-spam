@@ -72,7 +72,7 @@ try:
 
         if i != count:
             i+=1
-            if i == 15:
+            if i%12 == 0:
                 time.sleep(2)
             if response.status_code == 200:
                 print (f"{Fore.RED}[+]Success-{i}{Style.RESET_ALL}")
