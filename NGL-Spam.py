@@ -1,6 +1,7 @@
 import requests
 import os
 import platform
+import time
 from colorama import Fore, Style, init
 
 try:    
@@ -72,7 +73,7 @@ try:
 
         if i != count:
             i+=1
-            if i%12 == 0:
+            if i%9 == 0:
                 time.sleep(2)
             if response.status_code == 200:
                 print (f"{Fore.RED}[+]Success-{i}{Style.RESET_ALL}")
