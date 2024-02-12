@@ -1,0 +1,1000 @@
+﻿device,useragent
+firefox,Mozilla/5.0 (Linux; Linux x86_64) Gecko/20100101 Firefox/65.3
+mobile,"Mozilla/5.0 (Linux; Android 7.0; LG-H910 Build/NRD90M) AppleWebKit/533.40 (KHTML, like Gecko) Chrome/49.0.1673.165 Mobile Safari/537.4"
+mobile,"Mozilla/5.0 (iPod; CPU iPod OS 9_1_7; like Mac OS X) AppleWebKit/602.45 (KHTML, like Gecko) Chrome/55.0.2413.108 Mobile Safari/600.3"
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 7_9_8) AppleWebKit/600.44 (KHTML, like Gecko) Chrome/55.0.2545.285 Safari/602"
+android,"Mozilla/5.0 (Linux; U; Android 6.0; Nexus 7P Build/MMB29K) AppleWebKit/601.38 (KHTML, like Gecko) Chrome/52.0.2807.224 Mobile Safari/536.4"
+edge,"Mozilla/5.0 (Windows; U; Windows NT 10.2; Win64; x64; en-US) AppleWebKit/601.4 (KHTML, like Gecko) Chrome/54.0.1675.111 Safari/601.7 Edge/9.64586"
+edge,"Mozilla/5.0 (Windows NT 10.3; Win64; x64; en-US) AppleWebKit/601.15 (KHTML, like Gecko) Chrome/55.0.3311.363 Safari/536.1 Edge/9.93344"
+windows,"Mozilla/5.0 (Windows; U; Windows NT 10.1; WOW64; en-US) AppleWebKit/534.35 (KHTML, like Gecko) Chrome/51.0.3483.342 Safari/600.7 Edge/15.53972"
+chrome,"Mozilla/5.0 (Macintosh; Intel Mac OS X 8_7_4; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/47.0.2095.238 Safari/534"
+edge,"Mozilla/5.0 (Windows; U; Windows NT 10.5; WOW64; en-US) AppleWebKit/536.39 (KHTML, like Gecko) Chrome/50.0.2039.319 Safari/603.8 Edge/10.66558"
+mobile,"Mozilla/5.0 (iPod; CPU iPod OS 8_1_7; like Mac OS X) AppleWebKit/536.35 (KHTML, like Gecko) Chrome/49.0.2716.270 Mobile Safari/600.5"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_9_1; like Mac OS X) AppleWebKit/534.42 (KHTML, like Gecko) Chrome/51.0.1652.132 Mobile Safari/535.3"
+firefox,Mozilla/5.0 (Windows NT 10.3; x64; en-US) Gecko/20130401 Firefox/64.8
+firefox,Mozilla/5.0 (Linux; U; Linux i683 ) Gecko/20100101 Firefox/50.9
+chrome,"Mozilla/5.0 (Windows; Windows NT 10.3; Win64; x64; en-US) AppleWebKit/600.10 (KHTML, like Gecko) Chrome/51.0.3885.335 Safari/603"
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 7_7_6) AppleWebKit/533.45 (KHTML, like Gecko) Chrome/50.0.1775.234 Safari/533"
+windows,Mozilla/5.0 (compatible; MSIE 9.0; Windows; Windows NT 6.3; x64; en-US Trident/5.0)
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows; U; Windows NT 6.3; Win64; x64 Trident/7.0)
+mac,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_8_3) Gecko/20100101 Firefox/54.9
+chrome,"Mozilla/5.0 (Windows NT 10.0; x64; en-US) AppleWebKit/601.24 (KHTML, like Gecko) Chrome/47.0.1546.241 Safari/537"
+mobile,"Mozilla/5.0 (Linux; U; Android 7.0; GT-I9600 Build/KTU84P) AppleWebKit/600.22 (KHTML, like Gecko) Chrome/47.0.2725.259 Mobile Safari/603.3"
+linux,Mozilla/5.0 (Linux x86_64; en-US) Gecko/20100101 Firefox/53.6
+linux,"Mozilla/5.0 (U; Linux x86_64) AppleWebKit/603.32 (KHTML, like Gecko) Chrome/51.0.2359.199 Safari/536"
+firefox,Mozilla/5.0 (Macintosh; Intel Mac OS X 8_6_2; en-US) Gecko/20100101 Firefox/50.2
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_2_9; like Mac OS X) AppleWebKit/536.47 (KHTML, like Gecko) Chrome/54.0.2776.319 Mobile Safari/537.5"
+windows,"Mozilla/5.0 (Windows NT 6.2; x64; en-US) AppleWebKit/600.35 (KHTML, like Gecko) Chrome/47.0.2851.107 Safari/602"
+firefox,Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20100101 Firefox/66.3
+linux,"Mozilla/5.0 (Linux; U; Linux i653 x86_64; en-US) AppleWebKit/603.42 (KHTML, like Gecko) Chrome/51.0.2493.276 Safari/600"
+firefox,Mozilla/5.0 (Windows NT 10.2; x64) Gecko/20130401 Firefox/51.3
+linux,"Mozilla/5.0 (Linux; U; Linux i664 ; en-US) AppleWebKit/603.50 (KHTML, like Gecko) Chrome/48.0.2947.290 Safari/602"
+mobile,"Mozilla/5.0 (Linux; Android 5.0; SAMSUNG SM-T555 Build/LRX22G) AppleWebKit/600.23 (KHTML, like Gecko) Chrome/48.0.2643.323 Mobile Safari/534.3"
+linux,Mozilla/5.0 (Linux; Linux i585 x86_64; en-US) Gecko/20100101 Firefox/72.7
+chrome,"Mozilla/5.0 (Macintosh; Intel Mac OS X 8_5_0) AppleWebKit/533.27 (KHTML, like Gecko) Chrome/54.0.3430.367 Safari/601"
+windows,"Mozilla/5.0 (Windows; U; Windows NT 6.2; Win64; x64; en-US) AppleWebKit/534.45 (KHTML, like Gecko) Chrome/47.0.1656.266 Safari/534.4 Edge/18.89602"
+explorer,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; WOW64; en-US Trident/4.0)
+android,"Mozilla/5.0 (Linux; U; Android 5.0.2; SAMSUNG SM-G420 Build/LRX22G) AppleWebKit/536.23 (KHTML, like Gecko) Chrome/47.0.2385.113 Mobile Safari/600.6"
+edge,"Mozilla/5.0 (Windows; Windows NT 10.4; x64; en-US) AppleWebKit/601.23 (KHTML, like Gecko) Chrome/48.0.3672.343 Safari/602.6 Edge/18.90885"
+explorer,Mozilla/5.0 (compatible; MSIE 10.0; Windows; Windows NT 6.0; x64 Trident/6.0)
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_3; like Mac OS X) AppleWebKit/601.22 (KHTML, like Gecko) Chrome/54.0.3318.317 Mobile Safari/600.5"
+windows,"Mozilla/5.0 (Windows; Windows NT 10.0; x64) AppleWebKit/600.4 (KHTML, like Gecko) Chrome/51.0.3126.206 Safari/602.7 Edge/8.66942"
+android,"Mozilla/5.0 (Linux; U; Android 5.0.1; SM-N910FY Build/LRX22C) AppleWebKit/537.29 (KHTML, like Gecko) Chrome/50.0.3603.186 Mobile Safari/602.9"
+chrome,"Mozilla/5.0 (Windows NT 10.4; x64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/48.0.2645.208 Safari/600"
+android,"Mozilla/5.0 (Android; Android 4.4; SM-N8000 Build/KVT49L) AppleWebKit/601.31 (KHTML, like Gecko) Chrome/50.0.2957.175 Mobile Safari/535.4"
+mobile,"Mozilla/5.0 (iPod; CPU iPod OS 9_0_1; like Mac OS X) AppleWebKit/600.36 (KHTML, like Gecko) Chrome/51.0.1417.195 Mobile Safari/603.8"
+linux,"Mozilla/5.0 (Linux; Linux x86_64) AppleWebKit/603.36 (KHTML, like Gecko) Chrome/55.0.1744.160 Safari/537"
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows; U; Windows NT 6.2; WOW64 Trident/7.0)
+explorer,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.0; x64; en-US Trident/6.0)
+explorer,Mozilla/5.0 (compatible; MSIE 9.0; Windows; Windows NT 6.2; x64 Trident/5.0)
+chrome,"Mozilla/5.0 (Windows; U; Windows NT 10.0; x64) AppleWebKit/537.39 (KHTML, like Gecko) Chrome/52.0.2866.133 Safari/603"
+chrome,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_2_4) AppleWebKit/537.25 (KHTML, like Gecko) Chrome/54.0.2104.182 Safari/537"
+chrome,"Mozilla/5.0 (Macintosh; Intel Mac OS X 9_9_6; en-US) AppleWebKit/600.3 (KHTML, like Gecko) Chrome/54.0.3439.221 Safari/603"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_8_5; like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/51.0.3220.241 Mobile Safari/537.5"
+linux,"Mozilla/5.0 (Linux; U; Linux x86_64; en-US) AppleWebKit/533.50 (KHTML, like Gecko) Chrome/53.0.1209.193 Safari/603"
+mac,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_6_6) AppleWebKit/533.22 (KHTML, like Gecko) Chrome/55.0.2824.232 Safari/600"
+mobile,"Mozilla/5.0 (Android; Android 7.1; Pixel XL Build/NME91E) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/51.0.3154.178 Mobile Safari/534.7"
+windows,"Mozilla/5.0 (Windows NT 10.4; Win64; x64; en-US) AppleWebKit/601.50 (KHTML, like Gecko) Chrome/51.0.1043.217 Safari/537"
+edge,"Mozilla/5.0 (Windows NT 10.0; x64; en-US) AppleWebKit/534.20 (KHTML, like Gecko) Chrome/48.0.1725.142 Safari/533.9 Edge/13.13621"
+chrome,"Mozilla/5.0 (Windows NT 6.1;; en-US) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/48.0.2157.365 Safari/601"
+windows,"Mozilla/5.0 (Windows; U; Windows NT 6.3; x64) AppleWebKit/603.6 (KHTML, like Gecko) Chrome/54.0.3640.241 Safari/536.9 Edge/18.32140"
+android,"Mozilla/5.0 (Linux; Android 5.0.2; LG-D728 Build/LRX22G) AppleWebKit/601.7 (KHTML, like Gecko) Chrome/47.0.2679.196 Mobile Safari/536.3"
+explorer,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.3; Win64; x64 Trident/4.0)
+linux,"Mozilla/5.0 (U; Linux i584 ) AppleWebKit/603.10 (KHTML, like Gecko) Chrome/52.0.1676.344 Safari/533"
+mobile,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_4_2; like Mac OS X) AppleWebKit/533.37 (KHTML, like Gecko) Chrome/49.0.2012.239 Mobile Safari/603.7"
+edge,"Mozilla/5.0 (Windows; U; Windows NT 10.2; x64) AppleWebKit/602.19 (KHTML, like Gecko) Chrome/52.0.2684.150 Safari/536.3 Edge/17.28480"
+linux,"Mozilla/5.0 (U; Linux i686 x86_64; en-US) AppleWebKit/600.31 (KHTML, like Gecko) Chrome/52.0.2651.141 Safari/602"
+mac,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_7) Gecko/20130401 Firefox/48.0
+firefox,Mozilla/5.0 (Windows NT 6.2; Win64; x64; en-US) Gecko/20100101 Firefox/50.1
+windows,"Mozilla/5.0 (Windows; U; Windows NT 6.2; WOW64) AppleWebKit/536.49 (KHTML, like Gecko) Chrome/48.0.3919.256 Safari/535.2 Edge/14.48758"
+mac,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_4_1; en-US) AppleWebKit/535.31 (KHTML, like Gecko) Chrome/50.0.3573.141 Safari/601"
+mac,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) Gecko/20100101 Firefox/53.5
+linux,Mozilla/5.0 (Linux; Linux x86_64) Gecko/20100101 Firefox/72.8
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_5_0; like Mac OS X) AppleWebKit/601.31 (KHTML, like Gecko) Chrome/47.0.3601.223 Mobile Safari/602.7"
+windows,"Mozilla/5.0 (Windows; U; Windows NT 6.2; x64) AppleWebKit/603.6 (KHTML, like Gecko) Chrome/53.0.2273.206 Safari/535"
+chrome,"Mozilla/5.0 (Windows NT 6.1;; en-US) AppleWebKit/603.40 (KHTML, like Gecko) Chrome/51.0.2275.284 Safari/533"
+linux,Mozilla/5.0 (U; Linux x86_64) Gecko/20130401 Firefox/55.4
+linux,"Mozilla/5.0 (Linux i652 ) AppleWebKit/600.41 (KHTML, like Gecko) Chrome/53.0.1766.384 Safari/536"
+mac,Mozilla/5.0 (Macintosh; Intel Mac OS X 8_5_6) Gecko/20100101 Firefox/48.1
+mobile,"Mozilla/5.0 (Linux; Android 4.4; LG-D954 Build/KOT49I) AppleWebKit/601.37 (KHTML, like Gecko) Chrome/51.0.2728.336 Mobile Safari/534.7"
+chrome,"Mozilla/5.0 (Windows NT 6.0;) AppleWebKit/533.45 (KHTML, like Gecko) Chrome/50.0.3400.209 Safari/536"
+chrome,"Mozilla/5.0 (Linux; Linux x86_64) AppleWebKit/602.1 (KHTML, like Gecko) Chrome/50.0.1770.367 Safari/600"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_0; like Mac OS X) AppleWebKit/603.46 (KHTML, like Gecko) Chrome/48.0.2844.259 Mobile Safari/600.4"
+firefox,Mozilla/5.0 (Windows; Windows NT 10.2; x64; en-US) Gecko/20130401 Firefox/63.8
+mac,Mozilla/5.0 (Macintosh; Intel Mac OS X 9_9_0; en-US) Gecko/20100101 Firefox/63.8
+linux,"Mozilla/5.0 (U; Linux x86_64; en-US) AppleWebKit/533.49 (KHTML, like Gecko) Chrome/54.0.3325.309 Safari/537"
+explorer,Mozilla/5.0 (compatible; MSIE 7.0; Windows; U; Windows NT 6.2; Win64; x64 Trident/4.0)
+mac,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_0; en-US) Gecko/20100101 Firefox/72.0
+mobile,"Mozilla/5.0 (Linux; Android 7.0; LG-H910 Build/NRD90C) AppleWebKit/603.50 (KHTML, like Gecko) Chrome/54.0.2925.145 Mobile Safari/600.1"
+linux,Mozilla/5.0 (U; Linux i540 x86_64; en-US) Gecko/20130401 Firefox/54.0
+windows,Mozilla/5.0 (Windows; Windows NT 10.5; x64) Gecko/20100101 Firefox/51.6
+mobile,"Mozilla/5.0 (iPad; CPU iPad OS 8_1_7 like Mac OS X) AppleWebKit/533.34 (KHTML, like Gecko) Chrome/51.0.2971.397 Mobile Safari/602.5"
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 6.0; Win64; x64; en-US Trident/7.0)
+chrome,"Mozilla/5.0 (U; Linux i674 x86_64) AppleWebKit/536.26 (KHTML, like Gecko) Chrome/47.0.3549.364 Safari/601"
+firefox,Mozilla/5.0 (Windows; U; Windows NT 6.3;; en-US) Gecko/20100101 Firefox/70.0
+edge,"Mozilla/5.0 (Windows; U; Windows NT 10.5; x64; en-US) AppleWebKit/602.22 (KHTML, like Gecko) Chrome/47.0.1762.197 Safari/603.8 Edge/10.22117"
+explorer,Mozilla/5.0 (compatible; MSIE 10.0; Windows; U; Windows NT 6.3; x64 Trident/6.0)
+windows,"Mozilla/5.0 (Windows; U; Windows NT 6.1; x64; en-US) AppleWebKit/535.5 (KHTML, like Gecko) Chrome/49.0.3026.362 Safari/536.5 Edge/9.75956"
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows; Windows NT 6.0; Trident/7.0)
+android,"Mozilla/5.0 (Android; Android 4.4; Nexus 5 Build/KTU84P) AppleWebKit/600.3 (KHTML, like Gecko) Chrome/51.0.1416.192 Mobile Safari/602.0"
+mobile,"Mozilla/5.0 (iPad; CPU iPad OS 8_1_6 like Mac OS X) AppleWebKit/603.48 (KHTML, like Gecko) Chrome/55.0.3854.340 Mobile Safari/602.7"
+edge,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/600.7 (KHTML, like Gecko) Chrome/49.0.2654.169 Safari/536.8 Edge/11.27738"
+windows,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.5; Win64; x64; en-US Trident/4.0)
+mobile,"Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-D928I Build/MDB08I) AppleWebKit/537.18 (KHTML, like Gecko) Chrome/52.0.1309.326 Mobile Safari/600.7"
+mobile,"Mozilla/5.0 (Linux; Android 7.0; Pixel XL Build/NME91E) AppleWebKit/602.46 (KHTML, like Gecko) Chrome/47.0.3789.398 Mobile Safari/534.1"
+mac,Mozilla/5.0 (Macintosh; Intel Mac OS X 8_4_0; en-US) Gecko/20100101 Firefox/50.4
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_5; like Mac OS X) AppleWebKit/601.38 (KHTML, like Gecko) Chrome/54.0.1777.237 Mobile Safari/603.9"
+edge,"Mozilla/5.0 (Windows NT 10.2; WOW64; en-US) AppleWebKit/536.32 (KHTML, like Gecko) Chrome/49.0.3660.385 Safari/536.7 Edge/12.23865"
+edge,"Mozilla/5.0 (Windows; U; Windows NT 10.0; x64; en-US) AppleWebKit/602.45 (KHTML, like Gecko) Chrome/47.0.1018.171 Safari/535.9 Edge/8.60160"
+mobile,"Mozilla/5.0 (Android; Android 6.0; HTC OneS Build/MRA58K) AppleWebKit/534.38 (KHTML, like Gecko) Chrome/48.0.3453.169 Mobile Safari/600.8"
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows; U; Windows NT 6.0; x64 Trident/7.0)
+edge,"Mozilla/5.0 (Windows NT 10.4; WOW64) AppleWebKit/601.45 (KHTML, like Gecko) Chrome/48.0.1825.274 Safari/537.4 Edge/17.85558"
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 8_9_5) AppleWebKit/534.13 (KHTML, like Gecko) Chrome/49.0.1791.262 Safari/535"
+mac,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_3_5) Gecko/20100101 Firefox/69.2
+edge,"Mozilla/5.0 (Windows; U; Windows NT 10.4; x64; en-US) AppleWebKit/601.48 (KHTML, like Gecko) Chrome/54.0.3309.356 Safari/536.3 Edge/16.28453"
+chrome,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_7; en-US) AppleWebKit/602.9 (KHTML, like Gecko) Chrome/51.0.1356.156 Safari/534"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_3_2; like Mac OS X) AppleWebKit/602.50 (KHTML, like Gecko) Chrome/55.0.3283.210 Mobile Safari/603.3"
+windows,"Mozilla/5.0 (Windows; U; Windows NT 6.0; WOW64; en-US) AppleWebKit/535.43 (KHTML, like Gecko) Chrome/55.0.2215.167 Safari/600.9 Edge/18.80442"
+windows,Mozilla/5.0 (compatible; MSIE 8.0; Windows; U; Windows NT 10.0;; en-US Trident/4.0)
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_1; like Mac OS X) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/55.0.1119.103 Mobile Safari/533.0"
+android,"Mozilla/5.0 (Android; Android 5.0; HTC Butterfly S 919 Build/LRX22G) AppleWebKit/603.15 (KHTML, like Gecko) Chrome/50.0.3645.149 Mobile Safari/533.5"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_6_7; like Mac OS X) AppleWebKit/603.32 (KHTML, like Gecko) Chrome/48.0.2325.189 Mobile Safari/601.9"
+linux,Mozilla/5.0 (U; Linux x86_64) Gecko/20130401 Firefox/45.5
+linux,"Mozilla/5.0 (Linux; U; Linux i666 ; en-US) AppleWebKit/603.48 (KHTML, like Gecko) Chrome/54.0.1659.182 Safari/536"
+linux,Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20100101 Firefox/63.6
+explorer,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; en-US Trident/4.0)
+android,"Mozilla/5.0 (Linux; U; Android 4.3.1; HTC One max Build/JLS36C) AppleWebKit/603.2 (KHTML, like Gecko) Chrome/51.0.3830.293 Mobile Safari/536.0"
+chrome,"Mozilla/5.0 (Windows; Windows NT 10.5;) AppleWebKit/603.16 (KHTML, like Gecko) Chrome/47.0.2564.170 Safari/603"
+mac,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_3_6; en-US) AppleWebKit/600.21 (KHTML, like Gecko) Chrome/54.0.3514.338 Safari/534"
+linux,Mozilla/5.0 (Linux; U; Linux i565 ; en-US) Gecko/20100101 Firefox/70.2
+mobile,"Mozilla/5.0 (Android; Android 7.1.1; Pixel XL Build/NME91E) AppleWebKit/533.9 (KHTML, like Gecko) Chrome/54.0.3461.394 Mobile Safari/600.6"
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows; Windows NT 6.3; x64 Trident/7.0)
+android,"Mozilla/5.0 (Linux; U; Android 6.0; Nexus 6X Build/MMB29V) AppleWebKit/601.45 (KHTML, like Gecko) Chrome/55.0.2635.357 Mobile Safari/534.6"
+windows,"Mozilla/5.0 (Windows; Windows NT 10.1; WOW64) AppleWebKit/602.7 (KHTML, like Gecko) Chrome/48.0.1706.321 Safari/533"
+chrome,"Mozilla/5.0 (U; Linux i650 x86_64; en-US) AppleWebKit/602.7 (KHTML, like Gecko) Chrome/53.0.3528.145 Safari/533"
+android,"Mozilla/5.0 (Linux; U; Android 5.1.1; Nexus 6 Build/LMY48B) AppleWebKit/537.34 (KHTML, like Gecko) Chrome/54.0.2419.310 Mobile Safari/601.9"
+linux,"Mozilla/5.0 (Linux x86_64) AppleWebKit/537.15 (KHTML, like Gecko) Chrome/53.0.3877.181 Safari/601"
+firefox,Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20100101 Firefox/61.6
+firefox,Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20130401 Firefox/73.6
+linux,"Mozilla/5.0 (Linux; U; Linux x86_64) AppleWebKit/600.10 (KHTML, like Gecko) Chrome/54.0.1606.344 Safari/536"
+mobile,"Mozilla/5.0 (Linux; Android 4.4.4; LG-E987 Build/KOT49I) AppleWebKit/537.25 (KHTML, like Gecko) Chrome/54.0.2535.101 Mobile Safari/600.7"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_6_2; like Mac OS X) AppleWebKit/600.35 (KHTML, like Gecko) Chrome/50.0.2512.154 Mobile Safari/535.0"
+mobile,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_6_2; like Mac OS X) AppleWebKit/602.22 (KHTML, like Gecko) Chrome/54.0.3259.254 Mobile Safari/603.7"
+mobile,"Mozilla/5.0 (iPod; CPU iPod OS 10_4_1; like Mac OS X) AppleWebKit/600.37 (KHTML, like Gecko) Chrome/50.0.1148.186 Mobile Safari/601.9"
+windows,Mozilla/5.0 (Windows NT 10.5; x64; en-US) Gecko/20100101 Firefox/69.9
+mobile,"Mozilla/5.0 (Android; Android 5.1.1; Nexus 8 Build/LRX22C) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/47.0.3212.120 Mobile Safari/533.5"
+linux,Mozilla/5.0 (Linux x86_64; en-US) Gecko/20100101 Firefox/71.0
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_0_2; like Mac OS X) AppleWebKit/536.29 (KHTML, like Gecko) Chrome/52.0.3321.340 Mobile Safari/601.0"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_7_1; like Mac OS X) AppleWebKit/601.21 (KHTML, like Gecko) Chrome/53.0.1274.165 Mobile Safari/603.7"
+edge,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/534.41 (KHTML, like Gecko) Chrome/48.0.2134.134 Safari/537.8 Edge/11.18040"
+linux,"Mozilla/5.0 (U; Linux x86_64) AppleWebKit/602.8 (KHTML, like Gecko) Chrome/47.0.3000.184 Safari/603"
+firefox,Mozilla/5.0 (Macintosh; Intel Mac OS X 7_6_3; en-US) Gecko/20100101 Firefox/49.9
+chrome,"Mozilla/5.0 (Linux; U; Linux x86_64; en-US) AppleWebKit/600.22 (KHTML, like Gecko) Chrome/50.0.2620.129 Safari/536"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_6_6; like Mac OS X) AppleWebKit/535.35 (KHTML, like Gecko) Chrome/51.0.3466.374 Mobile Safari/533.9"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 11_8_1; like Mac OS X) AppleWebKit/603.5 (KHTML, like Gecko) Chrome/49.0.2928.309 Mobile Safari/534.5"
+mobile,"Mozilla/5.0 (iPhone; CPU iPhone OS 11_7_9; like Mac OS X) AppleWebKit/603.13 (KHTML, like Gecko) Chrome/48.0.1603.251 Mobile Safari/601.7"
+mobile,"Mozilla/5.0 (Android; Android 7.0; Pixel XL Build/NME91E) AppleWebKit/533.32 (KHTML, like Gecko) Chrome/55.0.1562.355 Mobile Safari/601.1"
+mobile,"Mozilla/5.0 (Linux; Android 7.1.1; LG-H910 Build/NRD90M) AppleWebKit/600.11 (KHTML, like Gecko) Chrome/50.0.2793.379 Mobile Safari/537.8"
+linux,Mozilla/5.0 (U; Linux i683 ) Gecko/20100101 Firefox/72.4
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_0; like Mac OS X) AppleWebKit/533.50 (KHTML, like Gecko) Chrome/54.0.2753.295 Mobile Safari/601.9"
+windows,"Mozilla/5.0 (Windows; U; Windows NT 6.2; x64; en-US) AppleWebKit/537.14 (KHTML, like Gecko) Chrome/53.0.1866.292 Safari/534.1 Edge/15.46626"
+mobile,"Mozilla/5.0 (iPad; CPU iPad OS 11_5_3 like Mac OS X) AppleWebKit/534.32 (KHTML, like Gecko) Chrome/49.0.2515.187 Mobile Safari/537.5"
+explorer,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; en-US Trident/4.0)
+edge,"Mozilla/5.0 (Windows; U; Windows NT 10.1;) AppleWebKit/601.28 (KHTML, like Gecko) Chrome/52.0.2614.367 Safari/536.8 Edge/17.27038"
+android,"Mozilla/5.0 (Linux; U; Android 5.0.2; LG-D332 Build/LRX22G) AppleWebKit/602.3 (KHTML, like Gecko) Chrome/48.0.2073.231 Mobile Safari/535.2"
+android,"Mozilla/5.0 (Linux; U; Android 5.1.1; Nexus 9 Build/LRX22C) AppleWebKit/533.31 (KHTML, like Gecko) Chrome/51.0.1429.237 Mobile Safari/600.7"
+firefox,Mozilla/5.0 (Windows; U; Windows NT 6.3; x64) Gecko/20100101 Firefox/55.9
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_9_7; like Mac OS X) AppleWebKit/603.37 (KHTML, like Gecko) Chrome/47.0.2512.216 Mobile Safari/536.8"
+windows,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; x64 Trident/6.0)
+linux,Mozilla/5.0 (Linux i671 x86_64) Gecko/20100101 Firefox/46.9
+chrome,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.30 (KHTML, like Gecko) Chrome/54.0.1584.385 Safari/533"
+android,"Mozilla/5.0 (Linux; U; Android 6.0.1; HTC One801e Build/MRA58K) AppleWebKit/601.42 (KHTML, like Gecko) Chrome/47.0.2358.211 Mobile Safari/603.3"
+firefox,Mozilla/5.0 (U; Linux x86_64) Gecko/20100101 Firefox/56.8
+firefox,Mozilla/5.0 (Macintosh; Intel Mac OS X 8_0_6) Gecko/20100101 Firefox/63.2
+explorer,Mozilla/5.0 (compatible; MSIE 9.0; Windows; Windows NT 6.0; x64 Trident/5.0)
+chrome,"Mozilla/5.0 (Linux; Linux i555 ; en-US) AppleWebKit/600.13 (KHTML, like Gecko) Chrome/50.0.1288.139 Safari/600"
+mobile,"Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_4; like Mac OS X) AppleWebKit/537.41 (KHTML, like Gecko) Chrome/54.0.2295.279 Mobile Safari/534.4"
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 6.2; Trident/7.0)
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_6) AppleWebKit/601.48 (KHTML, like Gecko) Chrome/50.0.3980.131 Safari/533"
+linux,"Mozilla/5.0 (Linux x86_64; en-US) AppleWebKit/600.14 (KHTML, like Gecko) Chrome/48.0.1788.376 Safari/535"
+android,"Mozilla/5.0 (Android; Android 5.1.1; SM-G9258 Build/LMY47X) AppleWebKit/602.2 (KHTML, like Gecko) Chrome/52.0.2978.204 Mobile Safari/600.2"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_9_7; like Mac OS X) AppleWebKit/600.8 (KHTML, like Gecko) Chrome/53.0.2597.117 Mobile Safari/601.8"
+explorer,Mozilla/5.0 (compatible; MSIE 8.0; Windows; Windows NT 6.0; WOW64; en-US Trident/4.0)
+mobile,"Mozilla/5.0 (iPad; CPU iPad OS 11_3_2 like Mac OS X) AppleWebKit/600.28 (KHTML, like Gecko) Chrome/48.0.3210.112 Mobile Safari/535.9"
+edge,"Mozilla/5.0 (Windows NT 10.5;; en-US) AppleWebKit/601.40 (KHTML, like Gecko) Chrome/54.0.3934.287 Safari/537.7 Edge/8.93818"
+mac,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_0_4; en-US) Gecko/20100101 Firefox/68.5
+chrome,"Mozilla/5.0 (Linux; U; Linux x86_64; en-US) AppleWebKit/602.37 (KHTML, like Gecko) Chrome/48.0.3804.280 Safari/601"
+linux,Mozilla/5.0 (Linux; U; Linux i675 x86_64; en-US) Gecko/20100101 Firefox/73.1
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_7_2; like Mac OS X) AppleWebKit/601.28 (KHTML, like Gecko) Chrome/55.0.2465.354 Mobile Safari/603.3"
+firefox,Mozilla/5.0 (Windows NT 10.4;; en-US) Gecko/20100101 Firefox/65.9
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 11_9_2; like Mac OS X) AppleWebKit/535.44 (KHTML, like Gecko) Chrome/47.0.2324.185 Mobile Safari/533.6"
+linux,"Mozilla/5.0 (Linux; Linux i682 ) AppleWebKit/602.19 (KHTML, like Gecko) Chrome/55.0.1386.171 Safari/601"
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_0_9) AppleWebKit/603.3 (KHTML, like Gecko) Chrome/47.0.2991.335 Safari/535"
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3; en-US) AppleWebKit/600.21 (KHTML, like Gecko) Chrome/49.0.3861.391 Safari/600"
+linux,Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20100101 Firefox/63.1
+firefox,Mozilla/5.0 (U; Linux i550 x86_64; en-US) Gecko/20100101 Firefox/49.3
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_6; like Mac OS X) AppleWebKit/603.43 (KHTML, like Gecko) Chrome/48.0.2735.381 Mobile Safari/533.0"
+linux,Mozilla/5.0 (Linux; U; Linux i646 x86_64; en-US) Gecko/20100101 Firefox/68.7
+explorer,Mozilla/5.0 (compatible; MSIE 9.0; Windows; U; Windows NT 6.3; WOW64 Trident/5.0)
+firefox,Mozilla/5.0 (Macintosh; Intel Mac OS X 9_7_5) Gecko/20130401 Firefox/60.3
+linux,"Mozilla/5.0 (Linux; U; Linux i566 ) AppleWebKit/535.49 (KHTML, like Gecko) Chrome/51.0.3599.252 Safari/602"
+mac,Mozilla/5.0 (Macintosh; Intel Mac OS X 7_9_9; en-US) Gecko/20130401 Firefox/66.9
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_2_1; like Mac OS X) AppleWebKit/601.22 (KHTML, like Gecko) Chrome/49.0.1223.235 Mobile Safari/602.8"
+edge,"Mozilla/5.0 (Windows; U; Windows NT 10.4; Win64; x64) AppleWebKit/537.48 (KHTML, like Gecko) Chrome/51.0.1539.279 Safari/603.6 Edge/14.16332"
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows; U; Windows NT 6.3; WOW64 Trident/7.0)
+chrome,"Mozilla/5.0 (U; Linux x86_64) AppleWebKit/536.45 (KHTML, like Gecko) Chrome/53.0.2058.384 Safari/601"
+mobile,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_3_7; like Mac OS X) AppleWebKit/534.14 (KHTML, like Gecko) Chrome/52.0.2422.242 Mobile Safari/602.7"
+explorer,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0)
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 9_9_6; en-US) AppleWebKit/602.45 (KHTML, like Gecko) Chrome/50.0.1942.238 Safari/536"
+explorer,Mozilla/5.0 (compatible; MSIE 7.0; Windows; Windows NT 6.3; x64; en-US Trident/4.0)
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_6_6; like Mac OS X) AppleWebKit/535.20 (KHTML, like Gecko) Chrome/47.0.3814.207 Mobile Safari/602.0"
+chrome,"Mozilla/5.0 (U; Linux i686 ; en-US) AppleWebKit/535.26 (KHTML, like Gecko) Chrome/47.0.2532.103 Safari/601"
+mac,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_1; en-US) Gecko/20100101 Firefox/62.4
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_9; like Mac OS X) AppleWebKit/601.19 (KHTML, like Gecko) Chrome/55.0.2350.386 Mobile Safari/601.5"
+windows,"Mozilla/5.0 (Windows NT 10.3; Win64; x64; en-US) AppleWebKit/535.6 (KHTML, like Gecko) Chrome/47.0.3889.158 Safari/534.7 Edge/8.49410"
+windows,Mozilla/5.0 (Windows; U; Windows NT 6.0; x64; en-US) Gecko/20100101 Firefox/57.1
+explorer,Mozilla/5.0 (compatible; MSIE 9.0; Windows; U; Windows NT 6.3; x64 Trident/5.0)
+android,"Mozilla/5.0 (Linux; Android 4.4.1; LG Optimus G Build/KRT16M) AppleWebKit/602.40 (KHTML, like Gecko) Chrome/49.0.3391.327 Mobile Safari/535.4"
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 8_6_3) AppleWebKit/534.6 (KHTML, like Gecko) Chrome/47.0.1327.241 Safari/603"
+windows,"Mozilla/5.0 (Windows; Windows NT 10.3; WOW64) AppleWebKit/600.47 (KHTML, like Gecko) Chrome/49.0.1280.201 Safari/602"
+explorer,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.3; x64 Trident/4.0)
+chrome,"Mozilla/5.0 (Linux; U; Linux x86_64; en-US) AppleWebKit/603.22 (KHTML, like Gecko) Chrome/51.0.2818.158 Safari/535"
+edge,"Mozilla/5.0 (Windows; Windows NT 10.1; WOW64; en-US) AppleWebKit/601.1 (KHTML, like Gecko) Chrome/55.0.3951.166 Safari/533.3 Edge/11.96994"
+chrome,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_4_9) AppleWebKit/600.20 (KHTML, like Gecko) Chrome/48.0.3144.350 Safari/533"
+firefox,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_3_2; en-US) Gecko/20130401 Firefox/71.8
+mobile,"Mozilla/5.0 (Android; Android 6.0.1; SAMSUNG SM-D925F Build/MDB08L) AppleWebKit/535.30 (KHTML, like Gecko) Chrome/54.0.2021.272 Mobile Safari/602.8"
+firefox,Mozilla/5.0 (Macintosh; Intel Mac OS X 7_3_7; en-US) Gecko/20100101 Firefox/58.3
+mac,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_1) AppleWebKit/600.7 (KHTML, like Gecko) Chrome/50.0.3157.119 Safari/535"
+mac,Mozilla/5.0 (Macintosh; Intel Mac OS X 8_7_2) Gecko/20130401 Firefox/65.7
+edge,"Mozilla/5.0 (Windows; Windows NT 10.0; WOW64) AppleWebKit/536.12 (KHTML, like Gecko) Chrome/54.0.3652.227 Safari/603.9 Edge/16.65363"
+windows,Mozilla/5.0 (compatible; MSIE 11.0; Windows; Windows NT 6.3; x64 Trident/7.0)
+chrome,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_7_9) AppleWebKit/602.42 (KHTML, like Gecko) Chrome/50.0.2300.110 Safari/600"
+mac,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_5; en-US) Gecko/20100101 Firefox/74.1
+mobile,"Mozilla/5.0 (iPod; CPU iPod OS 9_3_3; like Mac OS X) AppleWebKit/537.6 (KHTML, like Gecko) Chrome/52.0.1253.358 Mobile Safari/533.4"
+firefox,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_1_7; en-US) Gecko/20100101 Firefox/46.8
+mobile,"Mozilla/5.0 (Linux; U; Android 4.4.4; LG Optimus G Build/KRT16M) AppleWebKit/537.42 (KHTML, like Gecko) Chrome/54.0.1248.287 Mobile Safari/603.4"
+firefox,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_2_6; en-US) Gecko/20130401 Firefox/49.5
+edge,"Mozilla/5.0 (Windows; U; Windows NT 10.5; Win64; x64; en-US) AppleWebKit/535.16 (KHTML, like Gecko) Chrome/47.0.3560.208 Safari/602.8 Edge/10.63969"
+edge,"Mozilla/5.0 (Windows; Windows NT 10.0; WOW64) AppleWebKit/602.1 (KHTML, like Gecko) Chrome/50.0.3203.171 Safari/600.2 Edge/13.53385"
+android,"Mozilla/5.0 (Android; Android 6.0.1; SM-D9258 Build/MDB08L) AppleWebKit/536.14 (KHTML, like Gecko) Chrome/47.0.2877.228 Mobile Safari/603.5"
+android,"Mozilla/5.0 (Linux; U; Android 4.3.1; GT-I9200 Build/JDQ39) AppleWebKit/601.49 (KHTML, like Gecko) Chrome/50.0.2369.153 Mobile Safari/600.1"
+edge,"Mozilla/5.0 (Windows NT 10.1; Win64; x64) AppleWebKit/603.41 (KHTML, like Gecko) Chrome/49.0.2386.195 Safari/602.5 Edge/18.86015"
+android,"Mozilla/5.0 (Linux; U; Android 4.4.4; MOTOROLA MSM8960 Build/KVT49L) AppleWebKit/533.45 (KHTML, like Gecko) Chrome/52.0.3304.261 Mobile Safari/601.7"
+windows,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.3; Win64; x64 Trident/5.0)
+explorer,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.2; x64; en-US Trident/4.0)
+chrome,"Mozilla/5.0 (Windows; U; Windows NT 6.1; x64; en-US) AppleWebKit/533.43 (KHTML, like Gecko) Chrome/54.0.2106.276 Safari/534"
+windows,Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 6.0; Win64; x64; en-US Trident/7.0)
+linux,"Mozilla/5.0 (U; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/51.0.3198.211 Safari/536"
+android,"Mozilla/5.0 (Android; Android 5.0.1; Nokia 1000 4G Build/GRK39F) AppleWebKit/603.30 (KHTML, like Gecko) Chrome/52.0.2511.256 Mobile Safari/534.6"
+chrome,"Mozilla/5.0 (Windows; U; Windows NT 10.5; x64) AppleWebKit/601.38 (KHTML, like Gecko) Chrome/50.0.3730.232 Safari/537"
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_2) AppleWebKit/600.31 (KHTML, like Gecko) Chrome/55.0.1624.141 Safari/602"
+linux,"Mozilla/5.0 (Linux x86_64) AppleWebKit/602.34 (KHTML, like Gecko) Chrome/48.0.2891.318 Safari/601"
+mac,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-US) Gecko/20130401 Firefox/67.6
+mobile,"Mozilla/5.0 (Linux; Android 7.1; Xperia Build/NDE63X) AppleWebKit/603.25 (KHTML, like Gecko) Chrome/50.0.1651.314 Mobile Safari/534.7"
+edge,"Mozilla/5.0 (Windows; Windows NT 10.1; Win64; x64) AppleWebKit/533.22 (KHTML, like Gecko) Chrome/49.0.1160.244 Safari/534.3 Edge/14.68792"
+linux,"Mozilla/5.0 (Linux i661 ; en-US) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/55.0.2914.292 Safari/602"
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 7_5_1; en-US) AppleWebKit/534.7 (KHTML, like Gecko) Chrome/55.0.2972.176 Safari/533"
+linux,"Mozilla/5.0 (Linux; U; Linux i553 x86_64; en-US) AppleWebKit/536.24 (KHTML, like Gecko) Chrome/50.0.1219.153 Safari/603"
+linux,"Mozilla/5.0 (U; Linux x86_64; en-US) AppleWebKit/602.44 (KHTML, like Gecko) Chrome/47.0.2570.220 Safari/601"
+mobile,"Mozilla/5.0 (iPod; CPU iPod OS 10_8_2; like Mac OS X) AppleWebKit/602.20 (KHTML, like Gecko) Chrome/53.0.3224.137 Mobile Safari/603.7"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_9; like Mac OS X) AppleWebKit/535.22 (KHTML, like Gecko) Chrome/54.0.2176.391 Mobile Safari/603.1"
+edge,"Mozilla/5.0 (Windows; Windows NT 10.5;; en-US) AppleWebKit/601.26 (KHTML, like Gecko) Chrome/49.0.1816.102 Safari/535.1 Edge/9.60060"
+mobile,"Mozilla/5.0 (Linux; U; Android 7.0; LG-H920 Build/NRD90C) AppleWebKit/536.30 (KHTML, like Gecko) Chrome/54.0.2918.174 Mobile Safari/601.6"
+linux,Mozilla/5.0 (U; Linux i561 ; en-US) Gecko/20100101 Firefox/59.1
+android,"Mozilla/5.0 (Linux; Android 4.4.4; IQ4501 Quad Build/KOT49H) AppleWebKit/537.49 (KHTML, like Gecko) Chrome/49.0.2163.378 Mobile Safari/537.9"
+android,"Mozilla/5.0 (Linux; Android 4.4.4; SM-T535 Build/KTU84P) AppleWebKit/535.36 (KHTML, like Gecko) Chrome/49.0.3897.356 Mobile Safari/536.3"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3_8; like Mac OS X) AppleWebKit/603.3 (KHTML, like Gecko) Chrome/47.0.2001.223 Mobile Safari/601.9"
+android,"Mozilla/5.0 (Linux; U; Android 5.0.1; SAMSUNG SM-G490 Build/LRX22G) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/48.0.3927.304 Mobile Safari/601.1"
+linux,Mozilla/5.0 (Linux; Linux x86_64) Gecko/20100101 Firefox/74.6
+edge,"Mozilla/5.0 (Windows; Windows NT 10.0; WOW64; en-US) AppleWebKit/601.16 (KHTML, like Gecko) Chrome/52.0.3826.387 Safari/600.1 Edge/11.15324"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_8_9; like Mac OS X) AppleWebKit/603.16 (KHTML, like Gecko) Chrome/49.0.2727.142 Mobile Safari/537.3"
+chrome,"Mozilla/5.0 (Windows; U; Windows NT 10.4; Win64; x64; en-US) AppleWebKit/601.6 (KHTML, like Gecko) Chrome/48.0.1580.202 Safari/601"
+mac,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_2; en-US) Gecko/20100101 Firefox/72.7
+firefox,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_7_4; en-US) Gecko/20130401 Firefox/47.8
+mobile,"Mozilla/5.0 (Android; Android 6.0.1; HTC One0P8B2 dual sim Build/MRA58K) AppleWebKit/533.31 (KHTML, like Gecko) Chrome/55.0.1960.167 Mobile Safari/535.0"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_8; like Mac OS X) AppleWebKit/537.14 (KHTML, like Gecko) Chrome/51.0.1516.352 Mobile Safari/537.8"
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_6) AppleWebKit/534.7 (KHTML, like Gecko) Chrome/50.0.1840.320 Safari/602"
+edge,"Mozilla/5.0 (Windows; Windows NT 10.0; x64; en-US) AppleWebKit/535.25 (KHTML, like Gecko) Chrome/50.0.1994.225 Safari/603.8 Edge/8.65082"
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_0_0) AppleWebKit/601.33 (KHTML, like Gecko) Chrome/53.0.1523.344 Safari/534"
+windows,Mozilla/5.0 (Windows; U; Windows NT 6.2; Win64; x64) Gecko/20100101 Firefox/65.9
+android,"Mozilla/5.0 (Android; Android 4.4.1; Elephone P4000 Build/KTU84P) AppleWebKit/536.48 (KHTML, like Gecko) Chrome/50.0.3134.120 Mobile Safari/602.4"
+edge,"Mozilla/5.0 (Windows NT 10.5;; en-US) AppleWebKit/600.28 (KHTML, like Gecko) Chrome/50.0.1091.141 Safari/600.8 Edge/18.84606"
+firefox,Mozilla/5.0 (U; Linux i556 ; en-US) Gecko/20100101 Firefox/45.1
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 9_7_8) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/48.0.1515.231 Safari/603"
+firefox,Mozilla/5.0 (Linux; U; Linux x86_64) Gecko/20130401 Firefox/58.4
+firefox,Mozilla/5.0 (Windows; Windows NT 10.3; Win64; x64) Gecko/20100101 Firefox/54.9
+edge,"Mozilla/5.0 (Windows; U; Windows NT 10.5;; en-US) AppleWebKit/600.13 (KHTML, like Gecko) Chrome/48.0.3459.181 Safari/603.3 Edge/8.40571"
+linux,Mozilla/5.0 (Linux x86_64) Gecko/20100101 Firefox/68.5
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2; en-US) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/52.0.2212.107 Safari/537"
+mobile,"Mozilla/5.0 (iPad; CPU iPad OS 11_5_4 like Mac OS X) AppleWebKit/536.38 (KHTML, like Gecko) Chrome/49.0.1273.314 Mobile Safari/534.4"
+explorer,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.3; Win64; x64; en-US Trident/5.0)
+android,"Mozilla/5.0 (Linux; Android 4.4.4; LG-D600 Build/KOT49H) AppleWebKit/533.9 (KHTML, like Gecko) Chrome/47.0.1917.301 Mobile Safari/535.4"
+chrome,"Mozilla/5.0 (Linux; Linux x86_64; en-US) AppleWebKit/535.30 (KHTML, like Gecko) Chrome/48.0.3343.320 Safari/534"
+explorer,Mozilla/5.0 (compatible; MSIE 10.0; Windows; Windows NT 6.0; x64; en-US Trident/6.0)
+mac,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_3_4) Gecko/20100101 Firefox/68.7
+windows,Mozilla/5.0 (Windows; U; Windows NT 6.1;) Gecko/20130401 Firefox/48.7
+edge,"Mozilla/5.0 (Windows; Windows NT 10.3; x64) AppleWebKit/601.49 (KHTML, like Gecko) Chrome/47.0.1315.143 Safari/603.6 Edge/18.24498"
+firefox,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_6) Gecko/20100101 Firefox/58.3
+explorer,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.3; x64; en-US Trident/4.0)
+windows,Mozilla/5.0 (compatible; MSIE 11.0; Windows; U; Windows NT 10.5; Win64; x64; en-US Trident/7.0)
+linux,"Mozilla/5.0 (Linux; U; Linux i684 x86_64; en-US) AppleWebKit/536.45 (KHTML, like Gecko) Chrome/51.0.2680.150 Safari/600"
+firefox,Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20100101 Firefox/71.8
+windows,"Mozilla/5.0 (Windows NT 6.2; x64) AppleWebKit/600.16 (KHTML, like Gecko) Chrome/47.0.2463.126 Safari/537"
+edge,"Mozilla/5.0 (Windows; U; Windows NT 10.4; Win64; x64) AppleWebKit/603.38 (KHTML, like Gecko) Chrome/55.0.2494.240 Safari/533.5 Edge/11.78579"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_8_2; like Mac OS X) AppleWebKit/600.49 (KHTML, like Gecko) Chrome/50.0.2688.284 Mobile Safari/536.3"
+chrome,"Mozilla/5.0 (Macintosh; Intel Mac OS X 7_4_4) AppleWebKit/534.20 (KHTML, like Gecko) Chrome/53.0.1414.159 Safari/536"
+chrome,"Mozilla/5.0 (Macintosh; Intel Mac OS X 8_5_2) AppleWebKit/533.3 (KHTML, like Gecko) Chrome/50.0.2007.350 Safari/603"
+windows,"Mozilla/5.0 (Windows; U; Windows NT 10.3; Win64; x64; en-US) AppleWebKit/534.3 (KHTML, like Gecko) Chrome/49.0.1133.141 Safari/535"
+windows,Mozilla/5.0 (Windows; Windows NT 6.3; WOW64) Gecko/20100101 Firefox/54.4
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 11_9_2; like Mac OS X) AppleWebKit/600.38 (KHTML, like Gecko) Chrome/53.0.3078.298 Mobile Safari/600.9"
+mobile,"Mozilla/5.0 (iPad; CPU iPad OS 10_4_5 like Mac OS X) AppleWebKit/533.11 (KHTML, like Gecko) Chrome/47.0.3427.270 Mobile Safari/600.4"
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows; U; Windows NT 6.1; Trident/7.0)
+explorer,Mozilla/5.0 (compatible; MSIE 8.0; Windows; Windows NT 6.1; x64; en-US Trident/4.0)
+edge,"Mozilla/5.0 (Windows; Windows NT 10.0; WOW64) AppleWebKit/601.48 (KHTML, like Gecko) Chrome/55.0.3096.305 Safari/600.2 Edge/14.40826"
+edge,"Mozilla/5.0 (Windows NT 10.2; x64; en-US) AppleWebKit/601.27 (KHTML, like Gecko) Chrome/52.0.1610.356 Safari/535.6 Edge/8.43019"
+edge,"Mozilla/5.0 (Windows NT 10.2; x64) AppleWebKit/534.25 (KHTML, like Gecko) Chrome/52.0.2606.159 Safari/601.2 Edge/11.88865"
+chrome,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_0_3) AppleWebKit/602.18 (KHTML, like Gecko) Chrome/48.0.2419.239 Safari/533"
+windows,Mozilla/5.0 (Windows; Windows NT 10.0;; en-US) Gecko/20100101 Firefox/65.9
+edge,"Mozilla/5.0 (Windows; Windows NT 10.1;) AppleWebKit/603.47 (KHTML, like Gecko) Chrome/54.0.3310.126 Safari/600.4 Edge/14.67864"
+mobile,"Mozilla/5.0 (Linux; U; Android 7.1; LG-H920 Build/NRD90C) AppleWebKit/536.43 (KHTML, like Gecko) Chrome/48.0.2450.160 Mobile Safari/603.8"
+edge,"Mozilla/5.0 (Windows; Windows NT 10.3; Win64; x64; en-US) AppleWebKit/534.5 (KHTML, like Gecko) Chrome/53.0.1333.217 Safari/535.9 Edge/15.44764"
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows; Windows NT 6.0; x64; en-US Trident/7.0)
+linux,"Mozilla/5.0 (U; Linux x86_64) AppleWebKit/535.37 (KHTML, like Gecko) Chrome/51.0.3301.366 Safari/601"
+firefox,Mozilla/5.0 (Windows; Windows NT 6.0;; en-US) Gecko/20100101 Firefox/46.6
+mac,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_6_5; en-US) AppleWebKit/602.7 (KHTML, like Gecko) Chrome/47.0.3740.277 Safari/603"
+mobile,"Mozilla/5.0 (Linux; Android 4.4.1; Elephone P6000 Build/KTU84P) AppleWebKit/601.41 (KHTML, like Gecko) Chrome/53.0.2195.162 Mobile Safari/602.3"
+explorer,Mozilla/5.0 (compatible; MSIE 8.0; Windows; Windows NT 6.1; Win64; x64 Trident/4.0)
+linux,Mozilla/5.0 (U; Linux i670 ) Gecko/20130401 Firefox/64.5
+chrome,"Mozilla/5.0 (Linux i664 ; en-US) AppleWebKit/534.4 (KHTML, like Gecko) Chrome/47.0.1619.330 Safari/534"
+linux,Mozilla/5.0 (Linux; U; Linux i662 ; en-US) Gecko/20100101 Firefox/69.9
+firefox,Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20130401 Firefox/70.9
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_9; like Mac OS X) AppleWebKit/602.1 (KHTML, like Gecko) Chrome/54.0.3493.142 Mobile Safari/535.2"
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 6.0; x64 Trident/7.0)
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3_9; like Mac OS X) AppleWebKit/533.49 (KHTML, like Gecko) Chrome/51.0.3122.262 Mobile Safari/603.7"
+mac,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_0_1) Gecko/20130401 Firefox/71.8
+mobile,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_0; like Mac OS X) AppleWebKit/600.19 (KHTML, like Gecko) Chrome/51.0.3290.186 Mobile Safari/536.0"
+chrome,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_5_7) AppleWebKit/601.43 (KHTML, like Gecko) Chrome/52.0.2804.396 Safari/536"
+chrome,"Mozilla/5.0 (U; Linux x86_64; en-US) AppleWebKit/537.16 (KHTML, like Gecko) Chrome/54.0.1587.123 Safari/535"
+mobile,"Mozilla/5.0 (Linux; U; Android 5.0; Lenovo A7000-a Build/LRX21M;) AppleWebKit/533.26 (KHTML, like Gecko) Chrome/52.0.1058.383 Mobile Safari/533.1"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 11_8_8; like Mac OS X) AppleWebKit/536.20 (KHTML, like Gecko) Chrome/47.0.1970.155 Mobile Safari/536.3"
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/603.7 (KHTML, like Gecko) Chrome/51.0.1841.282 Safari/602"
+chrome,"Mozilla/5.0 (Windows NT 10.5; WOW64; en-US) AppleWebKit/534.41 (KHTML, like Gecko) Chrome/51.0.2328.124 Safari/603"
+mobile,"Mozilla/5.0 (Android; Android 4.4.1; E:number:20-23:10 Build/24.0.B.1.34) AppleWebKit/533.17 (KHTML, like Gecko) Chrome/49.0.3522.366 Mobile Safari/536.1"
+android,"Mozilla/5.0 (Android; Android 5.0.2; SM-G925I Build/LRX21T) AppleWebKit/600.5 (KHTML, like Gecko) Chrome/47.0.3556.217 Mobile Safari/601.2"
+android,"Mozilla/5.0 (Android; Android 7.0; Nexus 8X Build/NPD90G) AppleWebKit/534.19 (KHTML, like Gecko) Chrome/52.0.3521.202 Mobile Safari/535.9"
+mac,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_1_0) AppleWebKit/601.10 (KHTML, like Gecko) Chrome/55.0.1339.166 Safari/603"
+windows,"Mozilla/5.0 (Windows; Windows NT 10.3; x64; en-US) AppleWebKit/534.25 (KHTML, like Gecko) Chrome/51.0.3956.109 Safari/602.9 Edge/8.87657"
+windows,"Mozilla/5.0 (Windows NT 6.2; x64) AppleWebKit/537.10 (KHTML, like Gecko) Chrome/47.0.2433.122 Safari/601.7 Edge/16.51665"
+linux,"Mozilla/5.0 (Linux i553 ; en-US) AppleWebKit/535.21 (KHTML, like Gecko) Chrome/47.0.2494.171 Safari/603"
+firefox,Mozilla/5.0 (Windows NT 6.0; WOW64) Gecko/20130401 Firefox/62.6
+mac,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) Gecko/20100101 Firefox/61.9
+edge,"Mozilla/5.0 (Windows; Windows NT 10.1; x64; en-US) AppleWebKit/535.50 (KHTML, like Gecko) Chrome/54.0.3060.350 Safari/603.3 Edge/8.40138"
+android,"Mozilla/5.0 (Android; Android 6.0; HTC One0P8B2 dual sim Build/MRA58K) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/55.0.1165.333 Mobile Safari/537.4"
+mac,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_7_2; en-US) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/48.0.3573.323 Safari/536"
+windows,"Mozilla/5.0 (Windows NT 10.3; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/54.0.2606.367 Safari/602.7 Edge/16.32029"
+mobile,"Mozilla/5.0 (Linux; U; Android 6.0.1; Nexus 6P Build/MDB08I) AppleWebKit/536.50 (KHTML, like Gecko) Chrome/55.0.1185.386 Mobile Safari/533.9"
+chrome,"Mozilla/5.0 (Linux; U; Linux i586 x86_64) AppleWebKit/537.47 (KHTML, like Gecko) Chrome/48.0.1185.181 Safari/535"
+android,"Mozilla/5.0 (Linux; U; Android 5.1.1; SAMSUNG SM-G93508 Build/LMY47X) AppleWebKit/533.43 (KHTML, like Gecko) Chrome/50.0.3556.180 Mobile Safari/534.1"
+chrome,"Mozilla/5.0 (Linux; Linux i653 x86_64) AppleWebKit/535.36 (KHTML, like Gecko) Chrome/47.0.1148.203 Safari/602"
+firefox,Mozilla/5.0 (Windows; U; Windows NT 6.3;; en-US) Gecko/20100101 Firefox/62.6
+linux,Mozilla/5.0 (Linux x86_64) Gecko/20130401 Firefox/69.7
+windows,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.2; Win64; x64; en-US Trident/4.0)
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_5_3; like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2798.183 Mobile Safari/533.7"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_8_1; like Mac OS X) AppleWebKit/601.3 (KHTML, like Gecko) Chrome/47.0.3496.219 Mobile Safari/533.5"
+mac,Mozilla/5.0 (Macintosh; Intel Mac OS X 7_0_5; en-US) Gecko/20100101 Firefox/59.0
+linux,"Mozilla/5.0 (Linux; U; Linux i540 x86_64) AppleWebKit/536.8 (KHTML, like Gecko) Chrome/47.0.2498.106 Safari/602"
+linux,"Mozilla/5.0 (Linux; Linux x86_64) AppleWebKit/533.22 (KHTML, like Gecko) Chrome/53.0.2460.379 Safari/602"
+edge,"Mozilla/5.0 (Windows; Windows NT 10.0; Win64; x64; en-US) AppleWebKit/537.14 (KHTML, like Gecko) Chrome/51.0.2521.147 Safari/601.7 Edge/14.98401"
+explorer,Mozilla/5.0 (compatible; MSIE 10.0; Windows; U; Windows NT 6.1; Trident/6.0)
+mobile,"Mozilla/5.0 (Linux; U; Android 4.4.1; SAMSUNG SM-N9005 Build/KOT49H) AppleWebKit/601.45 (KHTML, like Gecko) Chrome/51.0.3895.291 Mobile Safari/600.4"
+mac,Mozilla/5.0 (Macintosh; Intel Mac OS X 7_5_5) Gecko/20100101 Firefox/72.7
+mac,Mozilla/5.0 (Macintosh; Intel Mac OS X 7_5_3; en-US) Gecko/20100101 Firefox/54.1
+chrome,"Mozilla/5.0 (Linux; Linux i553 x86_64; en-US) AppleWebKit/600.2 (KHTML, like Gecko) Chrome/47.0.1415.307 Safari/602"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_3; like Mac OS X) AppleWebKit/601.45 (KHTML, like Gecko) Chrome/47.0.3601.172 Mobile Safari/533.7"
+mobile,"Mozilla/5.0 (Linux; Android 4.3.1; HTC One max Build/JSS15J) AppleWebKit/533.3 (KHTML, like Gecko) Chrome/55.0.1479.393 Mobile Safari/533.7"
+firefox,Mozilla/5.0 (Windows; U; Windows NT 6.3; Win64; x64; en-US) Gecko/20100101 Firefox/59.6
+android,"Mozilla/5.0 (Linux; Android 4.4; LG-H210 Build/KOT49I) AppleWebKit/603.1 (KHTML, like Gecko) Chrome/55.0.2849.298 Mobile Safari/535.9"
+edge,"Mozilla/5.0 (Windows; Windows NT 10.0; Win64; x64) AppleWebKit/602.19 (KHTML, like Gecko) Chrome/55.0.3342.243 Safari/601.0 Edge/14.93103"
+chrome,"Mozilla/5.0 (Windows NT 10.1; WOW64; en-US) AppleWebKit/602.38 (KHTML, like Gecko) Chrome/47.0.3781.365 Safari/534"
+chrome,"Mozilla/5.0 (Linux; U; Linux i572 x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/47.0.1889.348 Safari/601"
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 6.3; Win64; x64; en-US Trident/7.0)
+firefox,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_7_8) Gecko/20130401 Firefox/45.6
+explorer,Mozilla/5.0 (compatible; MSIE 9.0; Windows; U; Windows NT 6.0; WOW64; en-US Trident/5.0)
+chrome,"Mozilla/5.0 (Macintosh; Intel Mac OS X 8_7_7) AppleWebKit/603.21 (KHTML, like Gecko) Chrome/52.0.3618.252 Safari/603"
+mobile,"Mozilla/5.0 (Android; Android 5.1.1; XT1021 Build/LPD23) AppleWebKit/537.38 (KHTML, like Gecko) Chrome/53.0.1825.154 Mobile Safari/601.0"
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows; Windows NT 6.0;; en-US Trident/7.0)
+linux,Mozilla/5.0 (Linux; Linux i670 x86_64) Gecko/20100101 Firefox/60.9
+mac,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) Gecko/20100101 Firefox/54.5
+edge,"Mozilla/5.0 (Windows; Windows NT 10.3; x64; en-US) AppleWebKit/602.23 (KHTML, like Gecko) Chrome/47.0.2739.336 Safari/601.2 Edge/11.28785"
+chrome,"Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/536.50 (KHTML, like Gecko) Chrome/49.0.1119.209 Safari/601"
+android,"Mozilla/5.0 (Linux; U; Android 4.4.4; ALCATEL ONETOUCH 7037D Build/KOT49H) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/49.0.3014.381 Mobile Safari/537.7"
+android,"Mozilla/5.0 (Android; Android 4.4; XT1050 Build/SU6-7.3) AppleWebKit/603.40 (KHTML, like Gecko) Chrome/53.0.2876.251 Mobile Safari/600.4"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_8_0; like Mac OS X) AppleWebKit/533.29 (KHTML, like Gecko) Chrome/54.0.3540.379 Mobile Safari/602.1"
+chrome,"Mozilla/5.0 (Linux; Linux i585 ; en-US) AppleWebKit/537.42 (KHTML, like Gecko) Chrome/49.0.3152.103 Safari/536"
+edge,"Mozilla/5.0 (Windows; Windows NT 10.4; WOW64) AppleWebKit/600.34 (KHTML, like Gecko) Chrome/51.0.3825.379 Safari/602.8 Edge/13.34982"
+mobile,"Mozilla/5.0 (iPad; CPU iPad OS 9_0_9 like Mac OS X) AppleWebKit/603.47 (KHTML, like Gecko) Chrome/54.0.1406.266 Mobile Safari/602.1"
+linux,"Mozilla/5.0 (Linux; Linux x86_64) AppleWebKit/601.11 (KHTML, like Gecko) Chrome/50.0.3000.363 Safari/535"
+windows,"Mozilla/5.0 (Windows; U; Windows NT 10.1;) AppleWebKit/536.13 (KHTML, like Gecko) Chrome/47.0.3615.375 Safari/536.4 Edge/10.18080"
+linux,Mozilla/5.0 (Linux i565 ) Gecko/20130401 Firefox/65.4
+chrome,"Mozilla/5.0 (Windows; Windows NT 6.1; WOW64) AppleWebKit/602.44 (KHTML, like Gecko) Chrome/49.0.1978.186 Safari/600"
+mobile,"Mozilla/5.0 (iPad; CPU iPad OS 9_2_0 like Mac OS X) AppleWebKit/600.32 (KHTML, like Gecko) Chrome/50.0.1693.371 Mobile Safari/535.4"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_2; like Mac OS X) AppleWebKit/601.12 (KHTML, like Gecko) Chrome/47.0.1211.373 Mobile Safari/603.8"
+windows,"Mozilla/5.0 (Windows; Windows NT 6.1; Win64; x64; en-US) AppleWebKit/602.31 (KHTML, like Gecko) Chrome/50.0.3126.356 Safari/603"
+windows,"Mozilla/5.0 (Windows; U; Windows NT 10.4;) AppleWebKit/602.35 (KHTML, like Gecko) Chrome/50.0.2388.384 Safari/602.0 Edge/10.76437"
+edge,"Mozilla/5.0 (Windows; Windows NT 10.5; WOW64; en-US) AppleWebKit/537.12 (KHTML, like Gecko) Chrome/47.0.2818.151 Safari/601.7 Edge/16.33925"
+chrome,"Mozilla/5.0 (U; Linux x86_64; en-US) AppleWebKit/533.18 (KHTML, like Gecko) Chrome/52.0.1326.131 Safari/601"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_5_5; like Mac OS X) AppleWebKit/536.18 (KHTML, like Gecko) Chrome/53.0.1757.272 Mobile Safari/600.5"
+firefox,Mozilla/5.0 (Linux i646 ) Gecko/20130401 Firefox/67.4
+chrome,"Mozilla/5.0 (Linux; Linux i575 ) AppleWebKit/600.41 (KHTML, like Gecko) Chrome/54.0.2111.330 Safari/600"
+mobile,"Mozilla/5.0 (Android; Android 6.0; Nexus 7P Build/MDB08I) AppleWebKit/536.26 (KHTML, like Gecko) Chrome/55.0.2375.398 Mobile Safari/603.1"
+linux,"Mozilla/5.0 (Linux; U; Linux i645 ) AppleWebKit/537.42 (KHTML, like Gecko) Chrome/47.0.3444.398 Safari/537"
+windows,"Mozilla/5.0 (Windows NT 6.2; x64; en-US) AppleWebKit/537.20 (KHTML, like Gecko) Chrome/54.0.2208.299 Safari/535"
+linux,Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20130401 Firefox/46.6
+linux,Mozilla/5.0 (Linux i666 x86_64; en-US) Gecko/20100101 Firefox/66.0
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 6.3; x64 Trident/7.0)
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_4_2) AppleWebKit/535.15 (KHTML, like Gecko) Chrome/51.0.3186.383 Safari/600"
+edge,"Mozilla/5.0 (Windows NT 10.4; Win64; x64) AppleWebKit/535.27 (KHTML, like Gecko) Chrome/48.0.3705.305 Safari/536.5 Edge/8.82785"
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 9_5_7; en-US) AppleWebKit/534.25 (KHTML, like Gecko) Chrome/52.0.3236.290 Safari/600"
+mac,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_1_0) Gecko/20100101 Firefox/52.1
+firefox,Mozilla/5.0 (Windows; Windows NT 10.1; WOW64; en-US) Gecko/20100101 Firefox/57.5
+mac,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_3_4; en-US) AppleWebKit/602.12 (KHTML, like Gecko) Chrome/52.0.1808.256 Safari/602"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_9_7; like Mac OS X) AppleWebKit/602.50 (KHTML, like Gecko) Chrome/55.0.2858.181 Mobile Safari/535.9"
+android,"Mozilla/5.0 (Linux; Android 5.1; SM-G935M Build/MMB29M) AppleWebKit/603.26 (KHTML, like Gecko) Chrome/51.0.1125.133 Mobile Safari/534.0"
+edge,"Mozilla/5.0 (Windows; Windows NT 10.0; x64; en-US) AppleWebKit/535.48 (KHTML, like Gecko) Chrome/55.0.2673.363 Safari/603.3 Edge/16.35738"
+android,"Mozilla/5.0 (Android; Android 6.0.1; SM-G920L Build/MMB29V) AppleWebKit/602.31 (KHTML, like Gecko) Chrome/54.0.3942.130 Mobile Safari/602.0"
+chrome,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_8_8) AppleWebKit/537.42 (KHTML, like Gecko) Chrome/53.0.2825.160 Safari/536"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_7_8; like Mac OS X) AppleWebKit/535.43 (KHTML, like Gecko) Chrome/47.0.1773.347 Mobile Safari/601.0"
+windows,"Mozilla/5.0 (Windows; Windows NT 6.3; x64; en-US) AppleWebKit/602.24 (KHTML, like Gecko) Chrome/54.0.3511.106 Safari/537"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_6_1; like Mac OS X) AppleWebKit/600.40 (KHTML, like Gecko) Chrome/53.0.2402.323 Mobile Safari/601.2"
+firefox,Mozilla/5.0 (Linux i564 ) Gecko/20100101 Firefox/56.5
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_3; like Mac OS X) AppleWebKit/602.22 (KHTML, like Gecko) Chrome/55.0.3423.265 Mobile Safari/535.1"
+mac,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_0_4) Gecko/20100101 Firefox/61.4
+android,"Mozilla/5.0 (Linux; U; Android 7.0; Nexus 8 Build/NPD90G) AppleWebKit/601.10 (KHTML, like Gecko) Chrome/50.0.3526.226 Mobile Safari/536.1"
+explorer,Mozilla/5.0 (compatible; MSIE 8.0; Windows; U; Windows NT 6.2; Win64; x64 Trident/4.0)
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_4_9; like Mac OS X) AppleWebKit/603.42 (KHTML, like Gecko) Chrome/49.0.2753.133 Mobile Safari/535.4"
+mac,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_8) Gecko/20130401 Firefox/66.5
+linux,Mozilla/5.0 (Linux x86_64; en-US) Gecko/20100101 Firefox/59.9
+linux,"Mozilla/5.0 (Linux; Linux i673 ; en-US) AppleWebKit/536.27 (KHTML, like Gecko) Chrome/47.0.1147.287 Safari/534"
+linux,"Mozilla/5.0 (Linux; Linux i575 ) AppleWebKit/536.8 (KHTML, like Gecko) Chrome/47.0.3055.169 Safari/601"
+mac,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_6; en-US) AppleWebKit/533.39 (KHTML, like Gecko) Chrome/48.0.2195.147 Safari/601"
+windows,"Mozilla/5.0 (Windows; U; Windows NT 10.3;) AppleWebKit/600.13 (KHTML, like Gecko) Chrome/55.0.3444.257 Safari/537.9 Edge/16.65825"
+firefox,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_4_8; en-US) Gecko/20100101 Firefox/71.3
+linux,Mozilla/5.0 (Linux; Linux i564 x86_64; en-US) Gecko/20100101 Firefox/68.0
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_3_6; like Mac OS X) AppleWebKit/536.39 (KHTML, like Gecko) Chrome/48.0.2391.306 Mobile Safari/602.2"
+firefox,Mozilla/5.0 (Macintosh; Intel Mac OS X 9_4_8) Gecko/20100101 Firefox/64.0
+linux,"Mozilla/5.0 (U; Linux i565 ) AppleWebKit/600.35 (KHTML, like Gecko) Chrome/55.0.2130.214 Safari/536"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_9_8; like Mac OS X) AppleWebKit/534.23 (KHTML, like Gecko) Chrome/52.0.2435.188 Mobile Safari/602.1"
+firefox,Mozilla/5.0 (U; Linux x86_64) Gecko/20130401 Firefox/45.4
+mac,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_0_5) Gecko/20100101 Firefox/60.2
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 9_1_3; en-US) AppleWebKit/536.46 (KHTML, like Gecko) Chrome/50.0.1836.145 Safari/537"
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 9_1_5; en-US) AppleWebKit/600.26 (KHTML, like Gecko) Chrome/51.0.2304.339 Safari/536"
+windows,Mozilla/5.0 (compatible; MSIE 10.0; Windows; Windows NT 10.1;; en-US Trident/6.0)
+android,"Mozilla/5.0 (Android; Android 6.0; SM-D9350L Build/MDB08L) AppleWebKit/533.28 (KHTML, like Gecko) Chrome/52.0.3301.144 Mobile Safari/536.8"
+windows,"Mozilla/5.0 (Windows; Windows NT 6.0;; en-US) AppleWebKit/603.42 (KHTML, like Gecko) Chrome/50.0.1317.100 Safari/602"
+mobile,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_5_0; like Mac OS X) AppleWebKit/600.9 (KHTML, like Gecko) Chrome/47.0.2528.268 Mobile Safari/601.0"
+edge,"Mozilla/5.0 (Windows; U; Windows NT 10.5; Win64; x64) AppleWebKit/603.24 (KHTML, like Gecko) Chrome/48.0.2055.283 Safari/537.9 Edge/17.62408"
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows; Windows NT 6.3; WOW64 Trident/7.0)
+firefox,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_5; en-US) Gecko/20130401 Firefox/59.1
+android,"Mozilla/5.0 (Linux; U; Android 6.0; HTC One_M8 dual sim Build/MRA58K) AppleWebKit/534.46 (KHTML, like Gecko) Chrome/52.0.3245.190 Mobile Safari/534.3"
+edge,"Mozilla/5.0 (Windows NT 10.4;) AppleWebKit/602.21 (KHTML, like Gecko) Chrome/49.0.3862.298 Safari/537.4 Edge/17.91994"
+explorer,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.3; x64 Trident/6.0)
+windows,Mozilla/5.0 (Windows; U; Windows NT 6.2;; en-US) Gecko/20130401 Firefox/55.7
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 11_8_3; like Mac OS X) AppleWebKit/600.44 (KHTML, like Gecko) Chrome/50.0.1698.238 Mobile Safari/603.6"
+edge,"Mozilla/5.0 (Windows; Windows NT 10.5; WOW64) AppleWebKit/535.38 (KHTML, like Gecko) Chrome/52.0.3463.384 Safari/535.9 Edge/17.62124"
+windows,"Mozilla/5.0 (Windows; U; Windows NT 10.4;; en-US) AppleWebKit/602.8 (KHTML, like Gecko) Chrome/53.0.3513.266 Safari/535.0 Edge/11.48663"
+windows,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/603.26 (KHTML, like Gecko) Chrome/52.0.1848.198 Safari/603.0 Edge/15.36604"
+windows,Mozilla/5.0 (Windows; Windows NT 10.5; Win64; x64) Gecko/20100101 Firefox/50.2
+linux,"Mozilla/5.0 (U; Linux i544 x86_64; en-US) AppleWebKit/601.30 (KHTML, like Gecko) Chrome/51.0.2564.185 Safari/535"
+android,"Mozilla/5.0 (Linux; U; Android 5.1.1; Nexus 7 Build/LMY48B) AppleWebKit/533.50 (KHTML, like Gecko) Chrome/53.0.2208.371 Mobile Safari/537.8"
+firefox,Mozilla/5.0 (Linux i571 ; en-US) Gecko/20100101 Firefox/45.7
+edge,"Mozilla/5.0 (Windows; Windows NT 10.2;) AppleWebKit/600.49 (KHTML, like Gecko) Chrome/53.0.3773.387 Safari/534.8 Edge/8.28463"
+mobile,"Mozilla/5.0 (Linux; Android 7.1.1; Pixel XL Build/NRD90M) AppleWebKit/601.19 (KHTML, like Gecko) Chrome/54.0.3716.190 Mobile Safari/535.9"
+android,"Mozilla/5.0 (Linux; Android 4.4; ALCATEL ONE TOUCH 7046A Build/KOT49H) AppleWebKit/537.34 (KHTML, like Gecko) Chrome/48.0.2232.168 Mobile Safari/601.0"
+windows,"Mozilla/5.0 (Windows; Windows NT 10.5; Win64; x64) AppleWebKit/600.14 (KHTML, like Gecko) Chrome/49.0.2715.373 Safari/603"
+mobile,"Mozilla/5.0 (Linux; Android 5.0.1; SM-G400 Build/LRX22G) AppleWebKit/600.37 (KHTML, like Gecko) Chrome/52.0.1215.115 Mobile Safari/533.8"
+windows,"Mozilla/5.0 (Windows; U; Windows NT 6.2;; en-US) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/50.0.2506.297 Safari/602"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_5_2; like Mac OS X) AppleWebKit/602.38 (KHTML, like Gecko) Chrome/48.0.3454.196 Mobile Safari/602.8"
+windows,"Mozilla/5.0 (Windows; Windows NT 6.3; Win64; x64; en-US) AppleWebKit/600.10 (KHTML, like Gecko) Chrome/51.0.2958.369 Safari/537.1 Edge/18.97919"
+edge,"Mozilla/5.0 (Windows; U; Windows NT 10.5; x64) AppleWebKit/536.34 (KHTML, like Gecko) Chrome/47.0.2890.353 Safari/600.4 Edge/10.83471"
+android,"Mozilla/5.0 (Linux; U; Android 5.0.1; HTC 80:number1-2e Build/JSS15J) AppleWebKit/603.37 (KHTML, like Gecko) Chrome/51.0.1976.191 Mobile Safari/533.4"
+firefox,Mozilla/5.0 (Linux; U; Linux i670 x86_64) Gecko/20130401 Firefox/61.4
+explorer,Mozilla/5.0 (compatible; MSIE 7.0; Windows; Windows NT 6.2; x64; en-US Trident/4.0)
+android,"Mozilla/5.0 (Linux; Android 5.0; Lenovo A7000-a Build/LRX21M;) AppleWebKit/603.24 (KHTML, like Gecko) Chrome/55.0.1332.378 Mobile Safari/534.4"
+edge,"Mozilla/5.0 (Windows NT 10.5; Win64; x64; en-US) AppleWebKit/535.3 (KHTML, like Gecko) Chrome/54.0.2581.104 Safari/535.0 Edge/17.49063"
+edge,"Mozilla/5.0 (Windows NT 10.2; Win64; x64) AppleWebKit/603.50 (KHTML, like Gecko) Chrome/50.0.1028.307 Safari/603.3 Edge/14.64390"
+explorer,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; WOW64; en-US Trident/4.0)
+chrome,"Mozilla/5.0 (Windows; U; Windows NT 10.3; WOW64) AppleWebKit/537.9 (KHTML, like Gecko) Chrome/49.0.1895.275 Safari/533"
+explorer,Mozilla/5.0 (compatible; MSIE 7.0; Windows; Windows NT 6.0; Win64; x64 Trident/4.0)
+firefox,Mozilla/5.0 (Windows; U; Windows NT 10.2; x64) Gecko/20130401 Firefox/48.2
+chrome,"Mozilla/5.0 (Windows NT 6.1; Win64; x64; en-US) AppleWebKit/603.14 (KHTML, like Gecko) Chrome/50.0.3329.311 Safari/534"
+chrome,"Mozilla/5.0 (Linux i655 ) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/54.0.1333.360 Safari/537"
+firefox,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_9; en-US) Gecko/20130401 Firefox/60.0
+chrome,"Mozilla/5.0 (Windows NT 10.5;) AppleWebKit/537.40 (KHTML, like Gecko) Chrome/53.0.1215.238 Safari/602"
+mobile,"Mozilla/5.0 (iPod; CPU iPod OS 11_1_8; like Mac OS X) AppleWebKit/601.29 (KHTML, like Gecko) Chrome/54.0.2520.304 Mobile Safari/537.4"
+mobile,"Mozilla/5.0 (iPad; CPU iPad OS 7_8_0 like Mac OS X) AppleWebKit/601.26 (KHTML, like Gecko) Chrome/54.0.1161.383 Mobile Safari/535.3"
+edge,"Mozilla/5.0 (Windows; Windows NT 10.0; WOW64) AppleWebKit/602.49 (KHTML, like Gecko) Chrome/53.0.3254.352 Safari/536.4 Edge/8.94942"
+edge,"Mozilla/5.0 (Windows; Windows NT 10.1;; en-US) AppleWebKit/602.38 (KHTML, like Gecko) Chrome/55.0.2399.273 Safari/534.3 Edge/16.40347"
+chrome,"Mozilla/5.0 (Linux x86_64) AppleWebKit/602.36 (KHTML, like Gecko) Chrome/49.0.2479.201 Safari/534"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_8_8; like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/51.0.1168.279 Mobile Safari/534.7"
+chrome,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_5_5) AppleWebKit/600.46 (KHTML, like Gecko) Chrome/50.0.3495.132 Safari/534"
+mac,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_3) AppleWebKit/533.32 (KHTML, like Gecko) Chrome/52.0.1220.210 Safari/600"
+windows,Mozilla/5.0 (compatible; MSIE 8.0; Windows; U; Windows NT 6.3; Trident/4.0)
+edge,"Mozilla/5.0 (Windows; Windows NT 10.4; x64; en-US) AppleWebKit/600.29 (KHTML, like Gecko) Chrome/50.0.3822.163 Safari/533.9 Edge/9.89486"
+mac,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_3_1; en-US) Gecko/20100101 Firefox/60.9
+mac,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_9; en-US) AppleWebKit/602.28 (KHTML, like Gecko) Chrome/50.0.3926.362 Safari/535"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_9_1; like Mac OS X) AppleWebKit/533.47 (KHTML, like Gecko) Chrome/49.0.1868.237 Mobile Safari/535.9"
+chrome,"Mozilla/5.0 (Macintosh; Intel Mac OS X 9_5_7) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/53.0.2903.354 Safari/533"
+chrome,"Mozilla/5.0 (Macintosh; Intel Mac OS X 7_5_9; en-US) AppleWebKit/600.47 (KHTML, like Gecko) Chrome/49.0.2440.195 Safari/603"
+explorer,Mozilla/5.0 (compatible; MSIE 8.0; Windows; Windows NT 6.3; Trident/4.0)
+explorer,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2;; en-US Trident/6.0)
+firefox,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_4) Gecko/20100101 Firefox/50.6
+firefox,Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20130401 Firefox/53.7
+windows,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.2; WOW64 Trident/4.0)
+linux,Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20100101 Firefox/52.5
+chrome,"Mozilla/5.0 (Linux i641 x86_64; en-US) AppleWebKit/536.48 (KHTML, like Gecko) Chrome/50.0.1685.289 Safari/601"
+mac,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_2_7) Gecko/20100101 Firefox/70.8
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_9_9; like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2313.316 Mobile Safari/601.4"
+chrome,"Mozilla/5.0 (Linux x86_64) AppleWebKit/534.31 (KHTML, like Gecko) Chrome/49.0.1051.180 Safari/600"
+windows,"Mozilla/5.0 (Windows; Windows NT 6.2; x64; en-US) AppleWebKit/600.24 (KHTML, like Gecko) Chrome/51.0.3465.299 Safari/600.7 Edge/17.34579"
+edge,"Mozilla/5.0 (Windows; Windows NT 10.2; WOW64) AppleWebKit/602.17 (KHTML, like Gecko) Chrome/54.0.1117.221 Safari/537.1 Edge/14.84178"
+windows,Mozilla/5.0 (compatible; MSIE 10.0; Windows; Windows NT 6.2; x64 Trident/6.0)
+chrome,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_0_2) AppleWebKit/534.6 (KHTML, like Gecko) Chrome/52.0.3580.319 Safari/533"
+firefox,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_8_9; en-US) Gecko/20100101 Firefox/52.0
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows; Windows NT 6.2; WOW64 Trident/7.0)
+firefox,Mozilla/5.0 (Linux x86_64; en-US) Gecko/20130401 Firefox/65.5
+linux,Mozilla/5.0 (Linux x86_64; en-US) Gecko/20100101 Firefox/55.2
+windows,Mozilla/5.0 (compatible; MSIE 10.0; Windows; Windows NT 6.0; Trident/6.0)
+firefox,Mozilla/5.0 (Windows; Windows NT 10.2; x64) Gecko/20100101 Firefox/52.7
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 7_5_4; en-US) AppleWebKit/533.30 (KHTML, like Gecko) Chrome/52.0.2836.236 Safari/601"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_9_9; like Mac OS X) AppleWebKit/603.26 (KHTML, like Gecko) Chrome/54.0.2128.400 Mobile Safari/601.6"
+linux,"Mozilla/5.0 (Linux x86_64) AppleWebKit/601.50 (KHTML, like Gecko) Chrome/51.0.2749.269 Safari/601"
+linux,Mozilla/5.0 (Linux x86_64; en-US) Gecko/20100101 Firefox/49.7
+explorer,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.3; WOW64 Trident/4.0)
+chrome,"Mozilla/5.0 (Windows; U; Windows NT 6.3; WOW64; en-US) AppleWebKit/534.35 (KHTML, like Gecko) Chrome/49.0.2764.344 Safari/537"
+chrome,"Mozilla/5.0 (Macintosh; Intel Mac OS X 8_6_1) AppleWebKit/601.9 (KHTML, like Gecko) Chrome/55.0.1854.225 Safari/534"
+mobile,"Mozilla/5.0 (Linux; U; Android 7.0; Nexus 8P Build/NPD90G) AppleWebKit/536.45 (KHTML, like Gecko) Chrome/50.0.3169.290 Mobile Safari/533.5"
+linux,Mozilla/5.0 (Linux i650 ) Gecko/20130401 Firefox/67.7
+mac,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_0) Gecko/20130401 Firefox/74.9
+explorer,Mozilla/5.0 (compatible; MSIE 8.0; Windows; Windows NT 6.3; WOW64; en-US Trident/4.0)
+windows,"Mozilla/5.0 (Windows; Windows NT 6.0; WOW64; en-US) AppleWebKit/601.14 (KHTML, like Gecko) Chrome/54.0.2108.287 Safari/536"
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 6.1;; en-US Trident/7.0)
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_2_8; like Mac OS X) AppleWebKit/602.28 (KHTML, like Gecko) Chrome/48.0.3250.322 Mobile Safari/600.6"
+firefox,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) Gecko/20100101 Firefox/73.4
+edge,"Mozilla/5.0 (Windows NT 10.0; Win64; x64; en-US) AppleWebKit/603.8 (KHTML, like Gecko) Chrome/51.0.1350.328 Safari/602.1 Edge/17.50720"
+windows,Mozilla/5.0 (Windows; Windows NT 10.2;; en-US) Gecko/20100101 Firefox/68.3
+mac,Mozilla/5.0 (Macintosh; Intel Mac OS X 8_4_5; en-US) Gecko/20100101 Firefox/63.3
+android,"Mozilla/5.0 (Android; Android 4.4.4; Lenovo P782 Build/Lenovo) AppleWebKit/603.42 (KHTML, like Gecko) Chrome/51.0.1006.250 Mobile Safari/536.3"
+windows,Mozilla/5.0 (compatible; MSIE 11.0; Windows; U; Windows NT 10.2; x64 Trident/7.0)
+firefox,Mozilla/5.0 (Windows; U; Windows NT 6.2; Win64; x64; en-US) Gecko/20130401 Firefox/70.8
+windows,"Mozilla/5.0 (Windows; U; Windows NT 6.0;) AppleWebKit/534.7 (KHTML, like Gecko) Chrome/53.0.1294.241 Safari/602.1 Edge/17.43989"
+mobile,"Mozilla/5.0 (Linux; Android 4.4; LG-D660 Build/KOT49I) AppleWebKit/534.43 (KHTML, like Gecko) Chrome/48.0.3596.309 Mobile Safari/603.1"
+mac,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_9_0; en-US) Gecko/20100101 Firefox/45.2
+explorer,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.3;; en-US Trident/5.0)
+android,"Mozilla/5.0 (Linux; Android 7.0; SAMSUNG GT-I9200 Build/KTU84P) AppleWebKit/537.15 (KHTML, like Gecko) Chrome/49.0.2255.325 Mobile Safari/537.0"
+mobile,"Mozilla/5.0 (Linux; Android 4.4; SAMSUNG SM-N9008 Build/KOT49H) AppleWebKit/535.16 (KHTML, like Gecko) Chrome/51.0.1973.387 Mobile Safari/600.6"
+chrome,"Mozilla/5.0 (Windows NT 10.1; WOW64) AppleWebKit/533.31 (KHTML, like Gecko) Chrome/53.0.1656.211 Safari/603"
+android,"Mozilla/5.0 (Android; Android 5.0.2; SAMSUNG SM-G430 Build/LRX22G) AppleWebKit/536.25 (KHTML, like Gecko) Chrome/51.0.3940.280 Mobile Safari/603.5"
+explorer,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)
+android,"Mozilla/5.0 (Linux; Android 6.0.1; HTC One_M8 Build/MRA58K) AppleWebKit/603.2 (KHTML, like Gecko) Chrome/53.0.2530.158 Mobile Safari/603.7"
+edge,"Mozilla/5.0 (Windows; Windows NT 10.1; WOW64; en-US) AppleWebKit/601.44 (KHTML, like Gecko) Chrome/55.0.3331.310 Safari/603.1 Edge/16.34927"
+edge,"Mozilla/5.0 (Windows; Windows NT 10.1; Win64; x64) AppleWebKit/537.24 (KHTML, like Gecko) Chrome/47.0.2447.378 Safari/534.7 Edge/13.90213"
+android,"Mozilla/5.0 (Linux; U; Android 4.3.1; Ascend G300 Build/JLS36I) AppleWebKit/533.42 (KHTML, like Gecko) Chrome/47.0.1453.329 Mobile Safari/603.5"
+windows,"Mozilla/5.0 (Windows; Windows NT 6.1; x64; en-US) AppleWebKit/602.33 (KHTML, like Gecko) Chrome/51.0.1383.376 Safari/603"
+explorer,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Win64; x64; en-US Trident/5.0)
+explorer,Mozilla/5.0 (compatible; MSIE 7.0; Windows; Windows NT 6.3; WOW64 Trident/4.0)
+explorer,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.3;; en-US Trident/4.0)
+android,"Mozilla/5.0 (Android; Android 5.0; SAMSUNG SM-G920I Build/KTU84F) AppleWebKit/535.26 (KHTML, like Gecko) Chrome/51.0.1340.358 Mobile Safari/534.3"
+android,"Mozilla/5.0 (Linux; Android 5.0.1; SM-G917T Build/KOT49I) AppleWebKit/535.39 (KHTML, like Gecko) Chrome/52.0.2601.277 Mobile Safari/534.3"
+explorer,Mozilla/5.0 (compatible; MSIE 10.0; Windows; U; Windows NT 6.0; Win64; x64; en-US Trident/6.0)
+explorer,Mozilla/5.0 (compatible; MSIE 9.0; Windows; U; Windows NT 6.3; WOW64 Trident/5.0)
+linux,"Mozilla/5.0 (Linux x86_64) AppleWebKit/602.15 (KHTML, like Gecko) Chrome/52.0.2127.299 Safari/533"
+edge,"Mozilla/5.0 (Windows NT 10.4;; en-US) AppleWebKit/601.3 (KHTML, like Gecko) Chrome/49.0.1204.221 Safari/536.5 Edge/12.88783"
+chrome,"Mozilla/5.0 (Linux i550 x86_64; en-US) AppleWebKit/602.38 (KHTML, like Gecko) Chrome/51.0.1952.203 Safari/600"
+linux,"Mozilla/5.0 (Linux; Linux i544 x86_64) AppleWebKit/601.9 (KHTML, like Gecko) Chrome/50.0.1310.119 Safari/534"
+windows,Mozilla/5.0 (Windows; Windows NT 6.1; WOW64) Gecko/20100101 Firefox/67.1
+android,"Mozilla/5.0 (Linux; U; Android 5.1; MOTO X PLAY XT1562 Build/LPD23) AppleWebKit/600.6 (KHTML, like Gecko) Chrome/47.0.2911.246 Mobile Safari/600.5"
+chrome,"Mozilla/5.0 (Linux; U; Linux i585 ) AppleWebKit/536.13 (KHTML, like Gecko) Chrome/54.0.1986.247 Safari/603"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_5_8; like Mac OS X) AppleWebKit/602.9 (KHTML, like Gecko) Chrome/51.0.2572.270 Mobile Safari/536.4"
+mobile,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_5_9; like Mac OS X) AppleWebKit/534.9 (KHTML, like Gecko) Chrome/55.0.2647.283 Mobile Safari/537.1"
+mobile,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_7_9; like Mac OS X) AppleWebKit/537.45 (KHTML, like Gecko) Chrome/51.0.1128.381 Mobile Safari/600.1"
+edge,"Mozilla/5.0 (Windows NT 10.1; x64; en-US) AppleWebKit/602.2 (KHTML, like Gecko) Chrome/54.0.3184.282 Safari/601.1 Edge/15.36603"
+android,"Mozilla/5.0 (Linux; Android 6.0; HTC One_M9 Build/MRA58K) AppleWebKit/602.35 (KHTML, like Gecko) Chrome/50.0.3027.373 Mobile Safari/603.1"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 11_3_1; like Mac OS X) AppleWebKit/602.13 (KHTML, like Gecko) Chrome/54.0.2803.329 Mobile Safari/536.2"
+windows,"Mozilla/5.0 (Windows; Windows NT 10.5; WOW64; en-US) AppleWebKit/600.8 (KHTML, like Gecko) Chrome/48.0.3153.141 Safari/600"
+mobile,"Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_6; like Mac OS X) AppleWebKit/603.47 (KHTML, like Gecko) Chrome/51.0.1919.296 Mobile Safari/600.4"
+windows,Mozilla/5.0 (compatible; MSIE 11.0; Windows; U; Windows NT 6.3; Trident/7.0)
+windows,Mozilla/5.0 (Windows NT 10.3; Win64; x64) Gecko/20100101 Firefox/71.5
+mac,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_8_5; en-US) AppleWebKit/603.4 (KHTML, like Gecko) Chrome/50.0.2242.257 Safari/601"
+linux,"Mozilla/5.0 (Linux; U; Linux i686 ; en-US) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/48.0.3979.177 Safari/534"
+edge,"Mozilla/5.0 (Windows; Windows NT 10.1; Win64; x64) AppleWebKit/537.43 (KHTML, like Gecko) Chrome/54.0.3459.269 Safari/601.9 Edge/12.88996"
+mac,Mozilla/5.0 (Macintosh; Intel Mac OS X 9_6_9) Gecko/20100101 Firefox/74.3
+edge,"Mozilla/5.0 (Windows; U; Windows NT 10.2;; en-US) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.3302.268 Safari/536.6 Edge/14.29780"
+edge,"Mozilla/5.0 (Windows NT 10.1; WOW64) AppleWebKit/534.42 (KHTML, like Gecko) Chrome/53.0.1789.113 Safari/537.4 Edge/18.38008"
+windows,Mozilla/5.0 (compatible; MSIE 8.0; Windows; U; Windows NT 10.1; Win64; x64; en-US Trident/4.0)
+windows,"Mozilla/5.0 (Windows NT 10.2;; en-US) AppleWebKit/537.20 (KHTML, like Gecko) Chrome/50.0.2249.319 Safari/536.2 Edge/10.64790"
+firefox,Mozilla/5.0 (Windows; Windows NT 10.2; WOW64; en-US) Gecko/20100101 Firefox/66.5
+chrome,"Mozilla/5.0 (Linux x86_64) AppleWebKit/600.13 (KHTML, like Gecko) Chrome/49.0.1398.360 Safari/603"
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/535.50 (KHTML, like Gecko) Chrome/54.0.1586.343 Safari/534"
+windows,"Mozilla/5.0 (Windows; U; Windows NT 10.3;; en-US) AppleWebKit/537.20 (KHTML, like Gecko) Chrome/54.0.1201.396 Safari/535.9 Edge/9.85461"
+windows,"Mozilla/5.0 (Windows NT 6.2; x64) AppleWebKit/600.3 (KHTML, like Gecko) Chrome/54.0.2469.107 Safari/536.4 Edge/12.75122"
+windows,"Mozilla/5.0 (Windows; Windows NT 10.1; Win64; x64) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/51.0.3424.209 Safari/537"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_3; like Mac OS X) AppleWebKit/602.22 (KHTML, like Gecko) Chrome/47.0.2585.207 Mobile Safari/600.1"
+firefox,Mozilla/5.0 (Windows; Windows NT 6.3; x64) Gecko/20130401 Firefox/62.6
+firefox,Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20100101 Firefox/50.2
+linux,Mozilla/5.0 (Linux x86_64) Gecko/20100101 Firefox/57.1
+linux,"Mozilla/5.0 (U; Linux x86_64; en-US) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/55.0.3030.144 Safari/536"
+explorer,Mozilla/5.0 (compatible; MSIE 7.0; Windows; Windows NT 6.3; WOW64 Trident/4.0)
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_8_9; like Mac OS X) AppleWebKit/600.40 (KHTML, like Gecko) Chrome/47.0.2676.317 Mobile Safari/603.4"
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 7_5_8) AppleWebKit/600.44 (KHTML, like Gecko) Chrome/47.0.2174.204 Safari/537"
+explorer,Mozilla/5.0 (compatible; MSIE 9.0; Windows; Windows NT 6.0; x64 Trident/5.0)
+explorer,Mozilla/5.0 (compatible; MSIE 8.0; Windows; U; Windows NT 6.1; Win64; x64; en-US Trident/4.0)
+linux,"Mozilla/5.0 (Linux i571 x86_64; en-US) AppleWebKit/536.47 (KHTML, like Gecko) Chrome/52.0.3770.203 Safari/601"
+mac,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_0) AppleWebKit/603.46 (KHTML, like Gecko) Chrome/51.0.2984.268 Safari/601"
+explorer,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.0;; en-US Trident/6.0)
+android,"Mozilla/5.0 (Android; Android 7.0; SAMSUNG GT-I9500 Build/KTU84P) AppleWebKit/534.37 (KHTML, like Gecko) Chrome/52.0.3702.386 Mobile Safari/537.1"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 11_9_9; like Mac OS X) AppleWebKit/603.13 (KHTML, like Gecko) Chrome/48.0.2296.338 Mobile Safari/602.7"
+windows,Mozilla/5.0 (compatible; MSIE 8.0; Windows; Windows NT 6.3; Trident/4.0)
+android,"Mozilla/5.0 (Android; Android 7.0; GT-I9700 Build/KTU84P) AppleWebKit/602.29 (KHTML, like Gecko) Chrome/51.0.2635.349 Mobile Safari/536.9"
+chrome,"Mozilla/5.0 (Linux; U; Linux x86_64; en-US) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/53.0.1501.324 Safari/602"
+android,"Mozilla/5.0 (Linux; U; Android 4.4.4; SM-G900T Build/KOT49H) AppleWebKit/535.3 (KHTML, like Gecko) Chrome/48.0.1508.203 Mobile Safari/603.3"
+chrome,"Mozilla/5.0 (Windows; U; Windows NT 6.2; WOW64; en-US) AppleWebKit/601.39 (KHTML, like Gecko) Chrome/48.0.2172.324 Safari/601"
+firefox,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) Gecko/20100101 Firefox/53.7
+firefox,Mozilla/5.0 (Linux; U; Linux x86_64) Gecko/20100101 Firefox/54.8
+edge,"Mozilla/5.0 (Windows NT 10.3; Win64; x64; en-US) AppleWebKit/537.48 (KHTML, like Gecko) Chrome/49.0.3280.344 Safari/600.7 Edge/9.35879"
+firefox,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_4) Gecko/20100101 Firefox/58.3
+explorer,Mozilla/5.0 (compatible; MSIE 7.0; Windows; U; Windows NT 6.1; x64; en-US Trident/4.0)
+windows,"Mozilla/5.0 (Windows; U; Windows NT 6.3; Win64; x64) AppleWebKit/600.23 (KHTML, like Gecko) Chrome/47.0.1026.144 Safari/603"
+mobile,"Mozilla/5.0 (Android; Android 5.0.2; Nokia 1000 LTE Build/GRK39F) AppleWebKit/603.7 (KHTML, like Gecko) Chrome/51.0.1312.349 Mobile Safari/535.9"
+linux,Mozilla/5.0 (Linux; U; Linux x86_64) Gecko/20130401 Firefox/73.6
+windows,"Mozilla/5.0 (Windows; U; Windows NT 6.3;) AppleWebKit/536.28 (KHTML, like Gecko) Chrome/49.0.3133.198 Safari/535.3 Edge/9.74912"
+edge,"Mozilla/5.0 (Windows; U; Windows NT 10.5; x64) AppleWebKit/600.46 (KHTML, like Gecko) Chrome/52.0.1573.277 Safari/601.4 Edge/8.51950"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_8; like Mac OS X) AppleWebKit/601.32 (KHTML, like Gecko) Chrome/47.0.1259.337 Mobile Safari/601.2"
+linux,Mozilla/5.0 (Linux; Linux x86_64) Gecko/20130401 Firefox/51.0
+mobile,"Mozilla/5.0 (iPod; CPU iPod OS 7_8_9; like Mac OS X) AppleWebKit/535.26 (KHTML, like Gecko) Chrome/52.0.2716.204 Mobile Safari/603.3"
+mobile,"Mozilla/5.0 (iPod; CPU iPod OS 8_0_1; like Mac OS X) AppleWebKit/601.17 (KHTML, like Gecko) Chrome/48.0.3829.232 Mobile Safari/600.6"
+firefox,Mozilla/5.0 (U; Linux i560 x86_64; en-US) Gecko/20100101 Firefox/60.6
+mac,Mozilla/5.0 (Macintosh; Intel Mac OS X 9_0_8; en-US) Gecko/20130401 Firefox/47.8
+mac,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_2) Gecko/20130401 Firefox/45.4
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_8; like Mac OS X) AppleWebKit/535.17 (KHTML, like Gecko) Chrome/53.0.1029.273 Mobile Safari/537.9"
+android,"Mozilla/5.0 (Android; Android 5.0; SAMSUNG SM-G925F-ORANGE Build/KOT49H) AppleWebKit/533.44 (KHTML, like Gecko) Chrome/51.0.3941.300 Mobile Safari/533.1"
+mobile,"Mozilla/5.0 (iPod; CPU iPod OS 7_2_6; like Mac OS X) AppleWebKit/603.11 (KHTML, like Gecko) Chrome/53.0.3785.326 Mobile Safari/534.0"
+mobile,"Mozilla/5.0 (iPod; CPU iPod OS 9_7_5; like Mac OS X) AppleWebKit/602.50 (KHTML, like Gecko) Chrome/55.0.3315.123 Mobile Safari/534.5"
+edge,"Mozilla/5.0 (Windows NT 10.2; WOW64; en-US) AppleWebKit/600.24 (KHTML, like Gecko) Chrome/55.0.3688.331 Safari/536.3 Edge/10.75975"
+mobile,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_4_0; like Mac OS X) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/50.0.3182.348 Mobile Safari/601.4"
+mobile,"Mozilla/5.0 (iPod; CPU iPod OS 10_8_2; like Mac OS X) AppleWebKit/600.41 (KHTML, like Gecko) Chrome/49.0.2947.206 Mobile Safari/535.1"
+firefox,Mozilla/5.0 (Windows NT 6.2;) Gecko/20130401 Firefox/73.6
+edge,"Mozilla/5.0 (Windows; U; Windows NT 10.3;; en-US) AppleWebKit/600.10 (KHTML, like Gecko) Chrome/48.0.1747.289 Safari/600.9 Edge/15.26277"
+edge,"Mozilla/5.0 (Windows NT 10.5; x64; en-US) AppleWebKit/535.25 (KHTML, like Gecko) Chrome/52.0.1077.210 Safari/535.2 Edge/17.81175"
+linux,"Mozilla/5.0 (U; Linux x86_64; en-US) AppleWebKit/536.43 (KHTML, like Gecko) Chrome/55.0.3221.199 Safari/533"
+firefox,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_6_8) Gecko/20130401 Firefox/64.2
+mobile,"Mozilla/5.0 (Android; Android 7.1.1; Pixel XL Build/NME91E) AppleWebKit/603.6 (KHTML, like Gecko) Chrome/47.0.2184.158 Mobile Safari/533.9"
+edge,"Mozilla/5.0 (Windows; U; Windows NT 10.1; x64) AppleWebKit/534.18 (KHTML, like Gecko) Chrome/50.0.2062.225 Safari/536.3 Edge/10.66580"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_0_2; like Mac OS X) AppleWebKit/602.4 (KHTML, like Gecko) Chrome/53.0.1422.212 Mobile Safari/537.2"
+edge,"Mozilla/5.0 (Windows; U; Windows NT 10.1;) AppleWebKit/602.24 (KHTML, like Gecko) Chrome/54.0.1408.229 Safari/602.8 Edge/12.29840"
+firefox,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_4_5; en-US) Gecko/20100101 Firefox/51.3
+mobile,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_8; like Mac OS X) AppleWebKit/601.7 (KHTML, like Gecko) Chrome/55.0.3421.139 Mobile Safari/601.6"
+android,"Mozilla/5.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) AppleWebKit/602.40 (KHTML, like Gecko) Chrome/53.0.2477.122 Mobile Safari/603.3"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_7_4; like Mac OS X) AppleWebKit/535.17 (KHTML, like Gecko) Chrome/54.0.1193.340 Mobile Safari/601.3"
+mobile,"Mozilla/5.0 (Android; Android 4.4.1; XT1045 Build/[KXB20.9|KXC21.5]) AppleWebKit/603.21 (KHTML, like Gecko) Chrome/52.0.3861.252 Mobile Safari/600.9"
+android,"Mozilla/5.0 (Android; Android 4.4.1; Elephone P2000 Build/KTU84P) AppleWebKit/602.41 (KHTML, like Gecko) Chrome/50.0.2993.351 Mobile Safari/535.1"
+linux,Mozilla/5.0 (Linux; U; Linux i641 x86_64) Gecko/20100101 Firefox/68.9
+windows,Mozilla/5.0 (Windows; U; Windows NT 10.3; WOW64) Gecko/20100101 Firefox/57.0
+edge,"Mozilla/5.0 (Windows; U; Windows NT 10.0; x64) AppleWebKit/600.45 (KHTML, like Gecko) Chrome/53.0.1621.391 Safari/602.0 Edge/13.50402"
+windows,Mozilla/5.0 (Windows; Windows NT 6.1; x64) Gecko/20100101 Firefox/63.7
+mac,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_4; en-US) Gecko/20100101 Firefox/50.0
+mac,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_5) Gecko/20100101 Firefox/50.5
+chrome,"Mozilla/5.0 (Linux; U; Linux i643 x86_64) AppleWebKit/603.5 (KHTML, like Gecko) Chrome/51.0.1376.240 Safari/535"
+explorer,Mozilla/5.0 (compatible; MSIE 10.0; Windows; Windows NT 6.2;; en-US Trident/6.0)
+edge,"Mozilla/5.0 (Windows; U; Windows NT 10.3; x64; en-US) AppleWebKit/600.21 (KHTML, like Gecko) Chrome/50.0.3398.234 Safari/536.8 Edge/10.37563"
+android,"Mozilla/5.0 (Android; Android 5.0.1; HTC 80:number1-2t Build/LRX22G) AppleWebKit/602.39 (KHTML, like Gecko) Chrome/53.0.2860.170 Mobile Safari/533.9"
+windows,Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 6.3;; en-US Trident/7.0)
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 8_0_1; en-US) AppleWebKit/535.37 (KHTML, like Gecko) Chrome/54.0.1073.248 Safari/533"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_2_9; like Mac OS X) AppleWebKit/536.38 (KHTML, like Gecko) Chrome/52.0.2317.180 Mobile Safari/535.0"
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 6.0; Trident/7.0)
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows; U; Windows NT 6.1; x64; en-US Trident/7.0)
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_9_5; like Mac OS X) AppleWebKit/603.3 (KHTML, like Gecko) Chrome/49.0.1929.235 Mobile Safari/536.6"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_8; like Mac OS X) AppleWebKit/603.20 (KHTML, like Gecko) Chrome/53.0.2025.151 Mobile Safari/603.4"
+mobile,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_4; like Mac OS X) AppleWebKit/536.37 (KHTML, like Gecko) Chrome/53.0.1020.359 Mobile Safari/602.7"
+windows,"Mozilla/5.0 (Windows; U; Windows NT 6.0; WOW64; en-US) AppleWebKit/600.41 (KHTML, like Gecko) Chrome/48.0.3952.308 Safari/601.3 Edge/18.79264"
+firefox,Mozilla/5.0 (Windows NT 6.1; WOW64) Gecko/20130401 Firefox/52.5
+firefox,Mozilla/5.0 (Windows NT 6.2; WOW64) Gecko/20130401 Firefox/65.0
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_5_8; like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Chrome/49.0.2299.168 Mobile Safari/537.5"
+mobile,"Mozilla/5.0 (Linux; Android 7.1; SAMSUNG GT-I9500 Build/KTU84P) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/51.0.3263.222 Mobile Safari/534.0"
+android,"Mozilla/5.0 (Linux; Android 6.0; HTC One_M8 Build/MRA58K) AppleWebKit/537.8 (KHTML, like Gecko) Chrome/48.0.1524.347 Mobile Safari/537.5"
+android,"Mozilla/5.0 (Linux; Android 5.0; SAMSUNG SM-G430 Build/LRX22C) AppleWebKit/536.15 (KHTML, like Gecko) Chrome/53.0.2979.200 Mobile Safari/600.7"
+mobile,"Mozilla/5.0 (Android; Android 5.1; SAMSUNG SM-G920F Build/LRX22G) AppleWebKit/602.43 (KHTML, like Gecko) Chrome/55.0.3015.304 Mobile Safari/533.0"
+mobile,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_8; like Mac OS X) AppleWebKit/601.38 (KHTML, like Gecko) Chrome/51.0.1147.129 Mobile Safari/537.7"
+explorer,Mozilla/5.0 (compatible; MSIE 9.0; Windows; U; Windows NT 6.0; WOW64 Trident/5.0)
+linux,Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20100101 Firefox/66.6
+windows,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/602.48 (KHTML, like Gecko) Chrome/49.0.2999.357 Safari/600.9 Edge/14.91996"
+explorer,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0;; en-US Trident/4.0)
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_9_4; like Mac OS X) AppleWebKit/602.4 (KHTML, like Gecko) Chrome/53.0.1438.307 Mobile Safari/533.4"
+chrome,"Mozilla/5.0 (Linux; Linux x86_64) AppleWebKit/533.9 (KHTML, like Gecko) Chrome/55.0.1209.238 Safari/537"
+firefox,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_4_8; en-US) Gecko/20130401 Firefox/66.3
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows; Windows NT 6.0; WOW64; en-US Trident/7.0)
+chrome,"Mozilla/5.0 (Windows; Windows NT 10.1;) AppleWebKit/537.26 (KHTML, like Gecko) Chrome/52.0.1973.203 Safari/536"
+firefox,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7) Gecko/20130401 Firefox/74.4
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 8_4_8; en-US) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/52.0.3046.221 Safari/603"
+firefox,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_4; en-US) Gecko/20100101 Firefox/65.7
+android,"Mozilla/5.0 (Linux; U; Android 5.1.1; SM-G93508 Build/MMB29M) AppleWebKit/533.28 (KHTML, like Gecko) Chrome/53.0.1173.117 Mobile Safari/536.3"
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows; Windows NT 6.1; WOW64; en-US Trident/7.0)
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_5_8; like Mac OS X) AppleWebKit/536.45 (KHTML, like Gecko) Chrome/50.0.2329.329 Mobile Safari/537.4"
+edge,"Mozilla/5.0 (Windows; Windows NT 10.4; WOW64) AppleWebKit/537.44 (KHTML, like Gecko) Chrome/53.0.2396.394 Safari/536.7 Edge/11.72582"
+windows,"Mozilla/5.0 (Windows; Windows NT 6.0; WOW64) AppleWebKit/535.20 (KHTML, like Gecko) Chrome/55.0.1140.306 Safari/533.9 Edge/13.21570"
+firefox,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0; en-US) Gecko/20100101 Firefox/64.4
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_9; en-US) AppleWebKit/533.38 (KHTML, like Gecko) Chrome/47.0.3283.382 Safari/536"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_2; like Mac OS X) AppleWebKit/600.13 (KHTML, like Gecko) Chrome/49.0.2450.114 Mobile Safari/601.1"
+edge,"Mozilla/5.0 (Windows NT 10.3; Win64; x64) AppleWebKit/603.30 (KHTML, like Gecko) Chrome/52.0.3723.327 Safari/600.2 Edge/17.70920"
+firefox,Mozilla/5.0 (Linux x86_64; en-US) Gecko/20130401 Firefox/74.3
+android,"Mozilla/5.0 (Linux; Android 6.0.1; SM-D925L Build/MDB08L) AppleWebKit/536.22 (KHTML, like Gecko) Chrome/55.0.1481.209 Mobile Safari/533.2"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_4_8; like Mac OS X) AppleWebKit/600.10 (KHTML, like Gecko) Chrome/49.0.3843.154 Mobile Safari/603.6"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 11_6_2; like Mac OS X) AppleWebKit/603.13 (KHTML, like Gecko) Chrome/55.0.1975.145 Mobile Safari/600.2"
+mobile,"Mozilla/5.0 (iPod; CPU iPod OS 7_5_4; like Mac OS X) AppleWebKit/601.11 (KHTML, like Gecko) Chrome/54.0.3644.229 Mobile Safari/533.8"
+mac,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_4_4; en-US) Gecko/20100101 Firefox/71.7
+linux,"Mozilla/5.0 (Linux; U; Linux i562 x86_64; en-US) AppleWebKit/601.19 (KHTML, like Gecko) Chrome/54.0.1723.115 Safari/534"
+android,"Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 8 Build/KOT49H) AppleWebKit/600.40 (KHTML, like Gecko) Chrome/47.0.1655.231 Mobile Safari/536.3"
+windows,Mozilla/5.0 (compatible; MSIE 10.0; Windows; Windows NT 6.2; Trident/6.0)
+android,"Mozilla/5.0 (Android; Android 5.0; SM-T550 Build/LRX22G) AppleWebKit/603.9 (KHTML, like Gecko) Chrome/49.0.1020.227 Mobile Safari/603.7"
+windows,"Mozilla/5.0 (Windows; U; Windows NT 6.3;) AppleWebKit/537.16 (KHTML, like Gecko) Chrome/54.0.3124.329 Safari/537.2 Edge/9.35315"
+firefox,Mozilla/5.0 (Windows; U; Windows NT 6.2; WOW64) Gecko/20100101 Firefox/47.3
+chrome,"Mozilla/5.0 (Linux; Linux i640 x86_64) AppleWebKit/603.3 (KHTML, like Gecko) Chrome/54.0.3494.379 Safari/533"
+edge,"Mozilla/5.0 (Windows; Windows NT 10.3; WOW64; en-US) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/48.0.2659.321 Safari/533.2 Edge/10.94831"
+chrome,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_4_7) AppleWebKit/535.50 (KHTML, like Gecko) Chrome/51.0.2876.175 Safari/536"
+windows,"Mozilla/5.0 (Windows; U; Windows NT 10.1;) AppleWebKit/536.37 (KHTML, like Gecko) Chrome/54.0.1949.183 Safari/603.2 Edge/17.40958"
+chrome,"Mozilla/5.0 (Linux i583 ) AppleWebKit/602.39 (KHTML, like Gecko) Chrome/48.0.1287.172 Safari/600"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_2; like Mac OS X) AppleWebKit/537.7 (KHTML, like Gecko) Chrome/47.0.2616.297 Mobile Safari/535.7"
+android,"Mozilla/5.0 (Android; Android 5.0.2; SM-N910A Build/LRX22C) AppleWebKit/600.12 (KHTML, like Gecko) Chrome/51.0.1389.235 Mobile Safari/536.1"
+firefox,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_3_4; en-US) Gecko/20100101 Firefox/61.3
+linux,"Mozilla/5.0 (U; Linux x86_64; en-US) AppleWebKit/536.20 (KHTML, like Gecko) Chrome/52.0.1082.311 Safari/603"
+edge,"Mozilla/5.0 (Windows; U; Windows NT 10.1; Win64; x64; en-US) AppleWebKit/533.5 (KHTML, like Gecko) Chrome/53.0.3752.141 Safari/602.2 Edge/16.51431"
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 6.3; Win64; x64 Trident/7.0)
+mac,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_1_5) AppleWebKit/600.6 (KHTML, like Gecko) Chrome/47.0.2419.191 Safari/603"
+windows,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.1; WOW64; en-US Trident/5.0)
+mac,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_4_2; en-US) AppleWebKit/533.6 (KHTML, like Gecko) Chrome/50.0.1862.291 Safari/601"
+windows,"Mozilla/5.0 (Windows; Windows NT 6.0; x64; en-US) AppleWebKit/534.14 (KHTML, like Gecko) Chrome/47.0.1181.271 Safari/534.3 Edge/12.16405"
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 6.1; x64 Trident/7.0)
+edge,"Mozilla/5.0 (Windows; Windows NT 10.1; x64) AppleWebKit/601.49 (KHTML, like Gecko) Chrome/48.0.1143.352 Safari/534.2 Edge/8.54966"
+windows,Mozilla/5.0 (Windows NT 10.5;; en-US) Gecko/20100101 Firefox/47.3
+mac,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_1_2; en-US) AppleWebKit/600.8 (KHTML, like Gecko) Chrome/50.0.3385.325 Safari/601"
+firefox,Mozilla/5.0 (Linux; Linux i542 ; en-US) Gecko/20100101 Firefox/45.0
+mobile,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_4_6; like Mac OS X) AppleWebKit/536.13 (KHTML, like Gecko) Chrome/51.0.2009.259 Mobile Safari/534.0"
+firefox,Mozilla/5.0 (Windows; Windows NT 6.3; Win64; x64; en-US) Gecko/20130401 Firefox/45.4
+windows,"Mozilla/5.0 (Windows; U; Windows NT 10.5;; en-US) AppleWebKit/601.15 (KHTML, like Gecko) Chrome/49.0.3730.297 Safari/601"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_3_9; like Mac OS X) AppleWebKit/537.16 (KHTML, like Gecko) Chrome/54.0.2675.166 Mobile Safari/600.3"
+windows,Mozilla/5.0 (compatible; MSIE 7.0; Windows; U; Windows NT 6.0;; en-US Trident/4.0)
+chrome,"Mozilla/5.0 (Windows; Windows NT 6.2; WOW64) AppleWebKit/535.36 (KHTML, like Gecko) Chrome/48.0.1565.240 Safari/533"
+explorer,Mozilla/5.0 (compatible; MSIE 10.0; Windows; U; Windows NT 6.1; x64; en-US Trident/6.0)
+mac,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_5) Gecko/20130401 Firefox/46.0
+edge,"Mozilla/5.0 (Windows; U; Windows NT 10.5; x64; en-US) AppleWebKit/602.22 (KHTML, like Gecko) Chrome/47.0.1810.278 Safari/603.0 Edge/12.32865"
+android,"Mozilla/5.0 (Linux; Android 4.3.1; HTC One max Build/JSS15J) AppleWebKit/534.34 (KHTML, like Gecko) Chrome/54.0.1082.377 Mobile Safari/534.3"
+mobile,"Mozilla/5.0 (Linux; Android 4.4.4; GT-I9303I Build/KOT49H) AppleWebKit/603.46 (KHTML, like Gecko) Chrome/55.0.2098.293 Mobile Safari/601.1"
+linux,"Mozilla/5.0 (Linux i575 ) AppleWebKit/533.28 (KHTML, like Gecko) Chrome/54.0.2933.377 Safari/601"
+firefox,Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20130401 Firefox/56.0
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_2_4; en-US) AppleWebKit/537.18 (KHTML, like Gecko) Chrome/49.0.3820.388 Safari/603"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_9_5; like Mac OS X) AppleWebKit/533.31 (KHTML, like Gecko) Chrome/47.0.3956.179 Mobile Safari/603.0"
+edge,"Mozilla/5.0 (Windows NT 10.3;) AppleWebKit/535.41 (KHTML, like Gecko) Chrome/52.0.3140.147 Safari/603.1 Edge/14.22327"
+mobile,"Mozilla/5.0 (iPad; CPU iPad OS 11_6_6 like Mac OS X) AppleWebKit/537.39 (KHTML, like Gecko) Chrome/51.0.1435.339 Mobile Safari/534.4"
+firefox,Mozilla/5.0 (Windows; Windows NT 6.1; x64) Gecko/20100101 Firefox/73.8
+windows,"Mozilla/5.0 (Windows; Windows NT 6.1; x64) AppleWebKit/601.15 (KHTML, like Gecko) Chrome/49.0.3801.279 Safari/602"
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 8_2_7; en-US) AppleWebKit/534.37 (KHTML, like Gecko) Chrome/50.0.3881.235 Safari/603"
+android,"Mozilla/5.0 (Linux; U; Android 6.0; SM-G925I Build/MMB29V) AppleWebKit/534.4 (KHTML, like Gecko) Chrome/50.0.2464.227 Mobile Safari/601.1"
+mac,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_4_7; en-US) Gecko/20100101 Firefox/52.9
+chrome,"Mozilla/5.0 (Windows; Windows NT 6.3; x64; en-US) AppleWebKit/602.31 (KHTML, like Gecko) Chrome/48.0.3268.390 Safari/536"
+chrome,"Mozilla/5.0 (Windows; Windows NT 10.0; Win64; x64; en-US) AppleWebKit/537.5 (KHTML, like Gecko) Chrome/55.0.1410.286 Safari/603"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_2_1; like Mac OS X) AppleWebKit/535.26 (KHTML, like Gecko) Chrome/48.0.1100.115 Mobile Safari/533.2"
+edge,"Mozilla/5.0 (Windows; Windows NT 10.5; WOW64) AppleWebKit/600.35 (KHTML, like Gecko) Chrome/52.0.3992.141 Safari/534.9 Edge/15.32835"
+edge,"Mozilla/5.0 (Windows; Windows NT 10.2; Win64; x64) AppleWebKit/602.7 (KHTML, like Gecko) Chrome/51.0.3296.208 Safari/601.2 Edge/15.16862"
+windows,Mozilla/5.0 (Windows NT 10.3; x64) Gecko/20100101 Firefox/57.2
+mac,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_9) Gecko/20100101 Firefox/50.2
+android,"Mozilla/5.0 (Android; Android 7.1; Nexus 5X Build/NPD90G) AppleWebKit/535.8 (KHTML, like Gecko) Chrome/47.0.1349.309 Mobile Safari/601.2"
+windows,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.1; Win64; x64; en-US Trident/4.0)
+chrome,"Mozilla/5.0 (Windows NT 6.0;) AppleWebKit/602.31 (KHTML, like Gecko) Chrome/51.0.2230.102 Safari/533"
+mobile,"Mozilla/5.0 (iPod; CPU iPod OS 8_8_5; like Mac OS X) AppleWebKit/601.24 (KHTML, like Gecko) Chrome/51.0.3136.241 Mobile Safari/533.6"
+android,"Mozilla/5.0 (Linux; U; Android 6.0; SM-D925F Build/MDB08L) AppleWebKit/602.35 (KHTML, like Gecko) Chrome/54.0.3559.261 Mobile Safari/600.4"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1; like Mac OS X) AppleWebKit/533.39 (KHTML, like Gecko) Chrome/51.0.3615.351 Mobile Safari/602.6"
+firefox,Mozilla/5.0 (Windows NT 10.1; WOW64; en-US) Gecko/20100101 Firefox/62.7
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 6.1; Win64; x64; en-US Trident/7.0)
+mobile,"Mozilla/5.0 (iPad; CPU iPad OS 7_1_6 like Mac OS X) AppleWebKit/602.44 (KHTML, like Gecko) Chrome/53.0.2088.302 Mobile Safari/537.5"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_6; like Mac OS X) AppleWebKit/535.4 (KHTML, like Gecko) Chrome/53.0.2490.240 Mobile Safari/603.2"
+firefox,Mozilla/5.0 (Windows; U; Windows NT 10.0;) Gecko/20130401 Firefox/56.5
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_6; like Mac OS X) AppleWebKit/534.35 (KHTML, like Gecko) Chrome/49.0.2011.352 Mobile Safari/602.2"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_7_9; like Mac OS X) AppleWebKit/602.29 (KHTML, like Gecko) Chrome/51.0.3725.347 Mobile Safari/601.2"
+chrome,"Mozilla/5.0 (Macintosh; Intel Mac OS X 8_1_7; en-US) AppleWebKit/601.20 (KHTML, like Gecko) Chrome/47.0.1678.329 Safari/536"
+mobile,"Mozilla/5.0 (iPad; CPU iPad OS 8_2_4 like Mac OS X) AppleWebKit/602.7 (KHTML, like Gecko) Chrome/53.0.3698.275 Mobile Safari/603.9"
+chrome,"Mozilla/5.0 (Windows; Windows NT 10.2; WOW64; en-US) AppleWebKit/603.32 (KHTML, like Gecko) Chrome/55.0.1842.177 Safari/603"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_3; like Mac OS X) AppleWebKit/533.22 (KHTML, like Gecko) Chrome/52.0.3291.103 Mobile Safari/536.6"
+windows,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 10.5; x64 Trident/6.0)
+linux,Mozilla/5.0 (Linux; U; Linux i644 ) Gecko/20100101 Firefox/59.2
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows; U; Windows NT 6.2; Win64; x64 Trident/7.0)
+android,"Mozilla/5.0 (Android; Android 6.0; SAMSUNG SM-G9350V Build/MMB29V) AppleWebKit/602.39 (KHTML, like Gecko) Chrome/52.0.1486.128 Mobile Safari/536.2"
+explorer,Mozilla/5.0 (compatible; MSIE 8.0; Windows; U; Windows NT 6.3; WOW64 Trident/4.0)
+windows,"Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/602.35 (KHTML, like Gecko) Chrome/50.0.2686.376 Safari/534.4 Edge/8.26115"
+windows,"Mozilla/5.0 (Windows; U; Windows NT 10.4; Win64; x64; en-US) AppleWebKit/603.16 (KHTML, like Gecko) Chrome/53.0.2846.272 Safari/602.8 Edge/13.56271"
+chrome,"Mozilla/5.0 (Windows; U; Windows NT 6.2; WOW64; en-US) AppleWebKit/601.1 (KHTML, like Gecko) Chrome/47.0.2739.133 Safari/536"
+firefox,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_3_1) Gecko/20130401 Firefox/56.0
+mac,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_9_0) AppleWebKit/537.3 (KHTML, like Gecko) Chrome/48.0.1458.293 Safari/603"
+chrome,"Mozilla/5.0 (Windows NT 10.0;; en-US) AppleWebKit/601.3 (KHTML, like Gecko) Chrome/54.0.2959.140 Safari/535"
+mac,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_3_6) Gecko/20130401 Firefox/58.9
+explorer,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0;; en-US Trident/5.0)
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3_2; like Mac OS X) AppleWebKit/601.16 (KHTML, like Gecko) Chrome/50.0.2710.164 Mobile Safari/533.2"
+linux,Mozilla/5.0 (U; Linux i651 ) Gecko/20100101 Firefox/66.4
+android,"Mozilla/5.0 (Android; Android 4.3.1; HTC One 801e Build/JLS36C) AppleWebKit/535.3 (KHTML, like Gecko) Chrome/55.0.2924.267 Mobile Safari/535.2"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_7; like Mac OS X) AppleWebKit/533.15 (KHTML, like Gecko) Chrome/47.0.3851.115 Mobile Safari/534.6"
+chrome,"Mozilla/5.0 (Linux i540 ; en-US) AppleWebKit/603.41 (KHTML, like Gecko) Chrome/53.0.3300.146 Safari/602"
+linux,Mozilla/5.0 (Linux i674 x86_64) Gecko/20100101 Firefox/53.3
+chrome,"Mozilla/5.0 (U; Linux x86_64) AppleWebKit/533.18 (KHTML, like Gecko) Chrome/51.0.1764.107 Safari/536"
+chrome,"Mozilla/5.0 (Windows; U; Windows NT 6.3; Win64; x64; en-US) AppleWebKit/534.49 (KHTML, like Gecko) Chrome/49.0.2604.133 Safari/534"
+firefox,Mozilla/5.0 (Linux; U; Linux i642 x86_64) Gecko/20100101 Firefox/59.4
+mac,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_5_6) Gecko/20100101 Firefox/73.3
+linux,"Mozilla/5.0 (U; Linux x86_64) AppleWebKit/603.31 (KHTML, like Gecko) Chrome/51.0.1688.344 Safari/602"
+edge,"Mozilla/5.0 (Windows NT 10.2; Win64; x64; en-US) AppleWebKit/535.9 (KHTML, like Gecko) Chrome/54.0.2243.231 Safari/537.3 Edge/8.97846"
+edge,"Mozilla/5.0 (Windows; U; Windows NT 10.1; Win64; x64) AppleWebKit/602.26 (KHTML, like Gecko) Chrome/48.0.2949.270 Safari/537.0 Edge/13.63985"
+firefox,Mozilla/5.0 (Macintosh; Intel Mac OS X 9_9_1; en-US) Gecko/20130401 Firefox/72.2
+explorer,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.3; Win64; x64 Trident/4.0)
+firefox,Mozilla/5.0 (Windows; Windows NT 6.1; x64) Gecko/20100101 Firefox/57.3
+explorer,Mozilla/5.0 (compatible; MSIE 8.0; Windows; Windows NT 6.1; WOW64; en-US Trident/4.0)
+mobile,"Mozilla/5.0 (iPod; CPU iPod OS 10_6_8; like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/54.0.1414.371 Mobile Safari/603.1"
+mac,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_1_4; en-US) AppleWebKit/533.29 (KHTML, like Gecko) Chrome/54.0.2231.251 Safari/602"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 11_9_3; like Mac OS X) AppleWebKit/534.17 (KHTML, like Gecko) Chrome/49.0.1954.371 Mobile Safari/600.4"
+edge,"Mozilla/5.0 (Windows; U; Windows NT 10.1;; en-US) AppleWebKit/536.34 (KHTML, like Gecko) Chrome/48.0.2086.155 Safari/602.2 Edge/17.28926"
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows; U; Windows NT 6.2;; en-US Trident/7.0)
+chrome,"Mozilla/5.0 (Windows NT 6.3;; en-US) AppleWebKit/603.23 (KHTML, like Gecko) Chrome/47.0.2737.384 Safari/603"
+android,"Mozilla/5.0 (Android; Android 4.4; SM-N8000 Build/JZO54K) AppleWebKit/602.28 (KHTML, like Gecko) Chrome/50.0.1638.317 Mobile Safari/533.5"
+windows,Mozilla/5.0 (Windows; U; Windows NT 10.1; Win64; x64) Gecko/20100101 Firefox/48.8
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows; U; Windows NT 6.0; Trident/7.0)
+firefox,Mozilla/5.0 (Windows; Windows NT 10.0; Win64; x64) Gecko/20130401 Firefox/60.5
+explorer,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.3;; en-US Trident/5.0)
+android,"Mozilla/5.0 (Android; Android 7.1; LG-H900 Build/NRD90C) AppleWebKit/601.38 (KHTML, like Gecko) Chrome/50.0.2576.301 Mobile Safari/533.6"
+mobile,"Mozilla/5.0 (iPod; CPU iPod OS 7_6_3; like Mac OS X) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/54.0.2857.206 Mobile Safari/600.9"
+windows,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; x64 Trident/5.0)
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2; en-US) AppleWebKit/603.20 (KHTML, like Gecko) Chrome/51.0.1415.218 Safari/533"
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 9_3_7) AppleWebKit/537.6 (KHTML, like Gecko) Chrome/47.0.1749.250 Safari/534"
+windows,Mozilla/5.0 (Windows; Windows NT 10.4; x64; en-US) Gecko/20100101 Firefox/58.7
+firefox,Mozilla/5.0 (Windows; Windows NT 10.4;) Gecko/20100101 Firefox/69.9
+linux,"Mozilla/5.0 (U; Linux i680 ) AppleWebKit/535.3 (KHTML, like Gecko) Chrome/55.0.2781.182 Safari/535"
+android,"Mozilla/5.0 (Linux; Android 4.4; SAMSUNG SM-T535 Build/KTU84P) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/53.0.3519.212 Mobile Safari/534.3"
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 7_8_8) AppleWebKit/603.32 (KHTML, like Gecko) Chrome/53.0.2310.192 Safari/601"
+firefox,Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20100101 Firefox/55.8
+linux,Mozilla/5.0 (Linux x86_64) Gecko/20100101 Firefox/62.5
+linux,"Mozilla/5.0 (U; Linux x86_64) AppleWebKit/601.17 (KHTML, like Gecko) Chrome/52.0.2061.195 Safari/536"
+linux,Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20100101 Firefox/53.1
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_1_9; en-US) AppleWebKit/601.36 (KHTML, like Gecko) Chrome/54.0.1751.118 Safari/600"
+windows,Mozilla/5.0 (Windows; U; Windows NT 6.1; WOW64) Gecko/20100101 Firefox/59.8
+mobile,"Mozilla/5.0 (Android; Android 5.1.1; Nexus 7 Build/LRX22C) AppleWebKit/533.3 (KHTML, like Gecko) Chrome/53.0.2397.251 Mobile Safari/533.5"
+mobile,"Mozilla/5.0 (Android; Android 4.4; ALCATEL ONE TOUCH 7038A Build/KOT49H) AppleWebKit/601.30 (KHTML, like Gecko) Chrome/50.0.2004.327 Mobile Safari/603.8"
+firefox,Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20100101 Firefox/68.3
+android,"Mozilla/5.0 (Android; Android 5.0.2; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/536.34 (KHTML, like Gecko) Chrome/51.0.2394.180 Mobile Safari/533.0"
+mac,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_6; en-US) Gecko/20130401 Firefox/46.1
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 8_2_3; en-US) AppleWebKit/535.12 (KHTML, like Gecko) Chrome/55.0.3701.225 Safari/603"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_8_4; like Mac OS X) AppleWebKit/537.46 (KHTML, like Gecko) Chrome/55.0.1422.309 Mobile Safari/603.8"
+chrome,"Mozilla/5.0 (Macintosh; Intel Mac OS X 9_7_6; en-US) AppleWebKit/600.46 (KHTML, like Gecko) Chrome/52.0.2090.177 Safari/602"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_9_7; like Mac OS X) AppleWebKit/600.27 (KHTML, like Gecko) Chrome/55.0.2254.225 Mobile Safari/537.8"
+chrome,"Mozilla/5.0 (Macintosh; Intel Mac OS X 8_0_4; en-US) AppleWebKit/601.12 (KHTML, like Gecko) Chrome/49.0.1645.123 Safari/534"
+linux,"Mozilla/5.0 (Linux i551 x86_64; en-US) AppleWebKit/535.44 (KHTML, like Gecko) Chrome/55.0.2066.155 Safari/602"
+firefox,Mozilla/5.0 (Windows; Windows NT 6.0; x64) Gecko/20100101 Firefox/71.1
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_5_9; like Mac OS X) AppleWebKit/600.28 (KHTML, like Gecko) Chrome/54.0.2593.111 Mobile Safari/533.2"
+edge,"Mozilla/5.0 (Windows NT 10.5; WOW64) AppleWebKit/533.13 (KHTML, like Gecko) Chrome/54.0.3056.378 Safari/535.0 Edge/8.93228"
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 7_3_7; en-US) AppleWebKit/535.14 (KHTML, like Gecko) Chrome/55.0.3427.263 Safari/603"
+linux,Mozilla/5.0 (U; Linux i550 x86_64; en-US) Gecko/20130401 Firefox/57.8
+windows,Mozilla/5.0 (compatible; MSIE 9.0; Windows; U; Windows NT 6.3; WOW64 Trident/5.0)
+windows,Mozilla/5.0 (Windows NT 10.2; WOW64; en-US) Gecko/20100101 Firefox/45.0
+linux,Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20130401 Firefox/46.7
+android,"Mozilla/5.0 (Linux; Android 4.4.4; Nexus_S_Build/GRJ22) AppleWebKit/603.27 (KHTML, like Gecko) Chrome/55.0.1196.280 Mobile Safari/534.9"
+mobile,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_2_5; like Mac OS X) AppleWebKit/537.50 (KHTML, like Gecko) Chrome/52.0.3675.289 Mobile Safari/533.4"
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 9_5_8; en-US) AppleWebKit/603.5 (KHTML, like Gecko) Chrome/49.0.1279.262 Safari/536"
+windows,"Mozilla/5.0 (Windows NT 6.0;; en-US) AppleWebKit/535.9 (KHTML, like Gecko) Chrome/51.0.1956.194 Safari/600"
+mac,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_8_4; en-US) AppleWebKit/603.9 (KHTML, like Gecko) Chrome/47.0.3925.397 Safari/534"
+windows,"Mozilla/5.0 (Windows; Windows NT 6.0; Win64; x64; en-US) AppleWebKit/600.38 (KHTML, like Gecko) Chrome/49.0.2445.101 Safari/535.0 Edge/16.21277"
+explorer,Mozilla/5.0 (compatible; MSIE 9.0; Windows; Windows NT 6.2;; en-US Trident/5.0)
+mobile,"Mozilla/5.0 (Android; Android 7.1; Pixel XL Build/NRD90M) AppleWebKit/535.39 (KHTML, like Gecko) Chrome/48.0.1716.250 Mobile Safari/600.9"
+edge,"Mozilla/5.0 (Windows; Windows NT 10.5; WOW64) AppleWebKit/536.34 (KHTML, like Gecko) Chrome/49.0.2803.103 Safari/534.1 Edge/16.93388"
+firefox,Mozilla/5.0 (Linux; U; Linux x86_64) Gecko/20100101 Firefox/45.0
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows; Windows NT 6.2; Win64; x64 Trident/7.0)
+mobile,"Mozilla/5.0 (Linux; U; Android 6.0; Nexus 7X Build/MMB29V) AppleWebKit/603.19 (KHTML, like Gecko) Chrome/50.0.2525.165 Mobile Safari/602.1"
+android,"Mozilla/5.0 (Android; Android 5.0.1; Lenovo A7000-a Build/LRX21M;) AppleWebKit/537.24 (KHTML, like Gecko) Chrome/49.0.3301.396 Mobile Safari/602.0"
+chrome,"Mozilla/5.0 (Windows NT 6.0;) AppleWebKit/602.45 (KHTML, like Gecko) Chrome/54.0.3220.345 Safari/600"
+mobile,"Mozilla/5.0 (iPad; CPU iPad OS 11_7_7 like Mac OS X) AppleWebKit/534.44 (KHTML, like Gecko) Chrome/48.0.2103.361 Mobile Safari/602.6"
+mobile,"Mozilla/5.0 (Linux; Android 5.1.1; MOTO X FORCE XT1580 Build/LPK23) AppleWebKit/534.3 (KHTML, like Gecko) Chrome/51.0.3547.224 Mobile Safari/535.2"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_9_5; like Mac OS X) AppleWebKit/536.4 (KHTML, like Gecko) Chrome/50.0.2941.120 Mobile Safari/534.8"
+edge,"Mozilla/5.0 (Windows NT 10.2; WOW64) AppleWebKit/536.15 (KHTML, like Gecko) Chrome/47.0.1637.245 Safari/600.4 Edge/12.45122"
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 8_9_8; en-US) AppleWebKit/601.20 (KHTML, like Gecko) Chrome/47.0.1857.332 Safari/537"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_3; like Mac OS X) AppleWebKit/602.34 (KHTML, like Gecko) Chrome/49.0.2782.241 Mobile Safari/602.7"
+edge,"Mozilla/5.0 (Windows; U; Windows NT 10.1; WOW64) AppleWebKit/602.43 (KHTML, like Gecko) Chrome/47.0.1243.223 Safari/533.5 Edge/13.49676"
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows; Windows NT 6.0; Win64; x64; en-US Trident/7.0)
+mobile,"Mozilla/5.0 (iPod; CPU iPod OS 10_0_0; like Mac OS X) AppleWebKit/536.31 (KHTML, like Gecko) Chrome/51.0.1485.269 Mobile Safari/536.4"
+windows,Mozilla/5.0 (compatible; MSIE 8.0; Windows; Windows NT 6.3; WOW64; en-US Trident/4.0)
+mobile,"Mozilla/5.0 (Linux; Android 7.1; LG-H920 Build/NRD90C) AppleWebKit/602.2 (KHTML, like Gecko) Chrome/53.0.1650.100 Mobile Safari/534.3"
+mac,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_9; en-US) Gecko/20130401 Firefox/61.5
+mobile,"Mozilla/5.0 (Linux; U; Android 7.1.1; SAMSUNG GT-I9800 Build/KTU84P) AppleWebKit/601.25 (KHTML, like Gecko) Chrome/52.0.1307.133 Mobile Safari/537.8"
+android,"Mozilla/5.0 (Linux; Android 5.0; LG-D950F Build/LMY47X) AppleWebKit/535.43 (KHTML, like Gecko) Chrome/52.0.1288.335 Mobile Safari/603.3"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_2_2; like Mac OS X) AppleWebKit/600.16 (KHTML, like Gecko) Chrome/52.0.2197.163 Mobile Safari/602.0"
+explorer,Mozilla/5.0 (compatible; MSIE 10.0; Windows; Windows NT 6.2; Win64; x64 Trident/6.0)
+windows,Mozilla/5.0 (compatible; MSIE 9.0; Windows; Windows NT 6.1; WOW64 Trident/5.0)
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 11_9_1; like Mac OS X) AppleWebKit/601.42 (KHTML, like Gecko) Chrome/49.0.1993.194 Mobile Safari/536.2"
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 6.2; Win64; x64 Trident/7.0)
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_8; like Mac OS X) AppleWebKit/536.30 (KHTML, like Gecko) Chrome/50.0.3220.275 Mobile Safari/533.4"
+firefox,Mozilla/5.0 (Windows; Windows NT 10.1; x64; en-US) Gecko/20130401 Firefox/46.7
+edge,"Mozilla/5.0 (Windows; Windows NT 10.1; x64) AppleWebKit/603.36 (KHTML, like Gecko) Chrome/47.0.1940.187 Safari/533.7 Edge/13.63242"
+windows,"Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/537.20 (KHTML, like Gecko) Chrome/49.0.3317.138 Safari/600"
+linux,"Mozilla/5.0 (Linux; Linux i576 ; en-US) AppleWebKit/602.2 (KHTML, like Gecko) Chrome/52.0.3005.162 Safari/534"
+mac,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_9_5) Gecko/20100101 Firefox/60.9
+firefox,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_5; en-US) Gecko/20100101 Firefox/68.4
+firefox,Mozilla/5.0 (Windows NT 10.0;; en-US) Gecko/20100101 Firefox/67.0
+windows,Mozilla/5.0 (compatible; MSIE 10.0; Windows; U; Windows NT 6.1; x64 Trident/6.0)
+windows,"Mozilla/5.0 (Windows; U; Windows NT 10.0;; en-US) AppleWebKit/533.50 (KHTML, like Gecko) Chrome/52.0.1365.290 Safari/603"
+chrome,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_3_4; en-US) AppleWebKit/602.13 (KHTML, like Gecko) Chrome/53.0.3240.108 Safari/602"
+android,"Mozilla/5.0 (Linux; U; Android 5.0.1; SAMSUNG-SM-N910G Build/LRX22C) AppleWebKit/602.40 (KHTML, like Gecko) Chrome/48.0.3072.180 Mobile Safari/600.1"
+linux,Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20100101 Firefox/57.8
+android,"Mozilla/5.0 (Linux; Android 4.4.1; Nexus_ 8 Build/KOT49H) AppleWebKit/602.16 (KHTML, like Gecko) Chrome/55.0.2890.324 Mobile Safari/601.6"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_4; like Mac OS X) AppleWebKit/601.22 (KHTML, like Gecko) Chrome/52.0.3492.321 Mobile Safari/536.2"
+linux,"Mozilla/5.0 (U; Linux x86_64; en-US) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/53.0.2637.264 Safari/533"
+android,"Mozilla/5.0 (Android; Android 4.4; XT1037 Build/[KXB20.9|KXC21.5]) AppleWebKit/602.21 (KHTML, like Gecko) Chrome/51.0.1771.265 Mobile Safari/603.8"
+mobile,"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 7P Build/MMB29K) AppleWebKit/603.1 (KHTML, like Gecko) Chrome/50.0.2078.374 Mobile Safari/533.4"
+windows,"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/602.15 (KHTML, like Gecko) Chrome/51.0.2460.202 Safari/534.9 Edge/17.45984"
+mobile,"Mozilla/5.0 (Linux; Android 6.0; HTC One_M8 Pro Build/MRA58K) AppleWebKit/601.19 (KHTML, like Gecko) Chrome/48.0.3175.340 Mobile Safari/602.4"
+android,"Mozilla/5.0 (Android; Android 5.0; LG-D331 Build/LRX22G) AppleWebKit/603.29 (KHTML, like Gecko) Chrome/54.0.2272.135 Mobile Safari/601.6"
+mobile,"Mozilla/5.0 (Android; Android 4.4.1; XT1060 Build/SU6-7.3) AppleWebKit/537.46 (KHTML, like Gecko) Chrome/54.0.1496.201 Mobile Safari/603.3"
+windows,Mozilla/5.0 (Windows; Windows NT 6.3; Win64; x64) Gecko/20130401 Firefox/65.8
+mobile,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_7_4; like Mac OS X) AppleWebKit/601.46 (KHTML, like Gecko) Chrome/50.0.1966.289 Mobile Safari/601.7"
+edge,"Mozilla/5.0 (Windows NT 10.3; Win64; x64) AppleWebKit/601.42 (KHTML, like Gecko) Chrome/48.0.1929.199 Safari/601.7 Edge/13.73150"
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 9_7_8) AppleWebKit/602.35 (KHTML, like Gecko) Chrome/48.0.3397.120 Safari/603"
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 7_9_7) AppleWebKit/601.4 (KHTML, like Gecko) Chrome/55.0.3993.110 Safari/603"
+mac,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_0; en-US) Gecko/20100101 Firefox/47.2
+mobile,"Mozilla/5.0 (iPad; CPU iPad OS 10_2_3 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/52.0.3151.395 Mobile Safari/603.5"
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows; Windows NT 6.3; WOW64; en-US Trident/7.0)
+linux,"Mozilla/5.0 (Linux; Linux i661 ) AppleWebKit/601.44 (KHTML, like Gecko) Chrome/48.0.1213.225 Safari/537"
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_6; en-US) AppleWebKit/602.25 (KHTML, like Gecko) Chrome/51.0.1295.116 Safari/603"
+android,"Mozilla/5.0 (Android; Android 7.1; SAMSUNG GT-I9300 Build/KTU84P) AppleWebKit/600.13 (KHTML, like Gecko) Chrome/55.0.3161.346 Mobile Safari/536.5"
+edge,"Mozilla/5.0 (Windows; U; Windows NT 10.1; Win64; x64) AppleWebKit/602.7 (KHTML, like Gecko) Chrome/54.0.2342.233 Safari/533.0 Edge/10.14077"
+mac,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_4; en-US) Gecko/20100101 Firefox/63.4
+chrome,"Mozilla/5.0 (Linux i670 ) AppleWebKit/536.10 (KHTML, like Gecko) Chrome/52.0.2622.330 Safari/536"
+android,"Mozilla/5.0 (Linux; Android 6.0.1; SM-D920I Build/MDB08L) AppleWebKit/600.28 (KHTML, like Gecko) Chrome/53.0.1375.380 Mobile Safari/533.6"
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 7_0_3; en-US) AppleWebKit/601.12 (KHTML, like Gecko) Chrome/54.0.2640.256 Safari/533"
+chrome,"Mozilla/5.0 (Linux; Linux i653 x86_64; en-US) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/52.0.3126.302 Safari/533"
+mac,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_5_3; en-US) Gecko/20100101 Firefox/49.8
+linux,"Mozilla/5.0 (Linux; U; Linux x86_64; en-US) AppleWebKit/602.6 (KHTML, like Gecko) Chrome/51.0.1047.187 Safari/535"
+edge,"Mozilla/5.0 (Windows NT 10.2; x64) AppleWebKit/602.38 (KHTML, like Gecko) Chrome/49.0.2018.295 Safari/603.2 Edge/18.89590"
+mobile,"Mozilla/5.0 (Linux; Android 4.4; Nexus 8 Build/KTU84P) AppleWebKit/602.37 (KHTML, like Gecko) Chrome/50.0.2077.229 Mobile Safari/602.0"
+firefox,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_6_7; en-US) Gecko/20100101 Firefox/49.4
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows; U; Windows NT 6.3; Win64; x64; en-US Trident/7.0)
+mac,Mozilla/5.0 (Macintosh; Intel Mac OS X 9_9_4; en-US) Gecko/20100101 Firefox/61.3
+mac,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_3_8) AppleWebKit/600.24 (KHTML, like Gecko) Chrome/54.0.3851.146 Safari/601"
+explorer,Mozilla/5.0 (compatible; MSIE 7.0; Windows; Windows NT 6.3; Trident/4.0)
+linux,Mozilla/5.0 (Linux i552 ; en-US) Gecko/20130401 Firefox/54.3
+android,"Mozilla/5.0 (Linux; Android 5.0.2; HTC 80:number1-2s Build/LRX22G) AppleWebKit/602.43 (KHTML, like Gecko) Chrome/48.0.2060.171 Mobile Safari/536.8"
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_1_9) AppleWebKit/601.13 (KHTML, like Gecko) Chrome/47.0.1096.187 Safari/537"
+linux,Mozilla/5.0 (Linux; Linux i544 ; en-US) Gecko/20130401 Firefox/59.1
+explorer,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64 Trident/4.0)
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_2_9) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/49.0.1579.128 Safari/603"
+firefox,Mozilla/5.0 (Windows; U; Windows NT 6.0;; en-US) Gecko/20100101 Firefox/59.9
+explorer,Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 6.1; x64 Trident/7.0)
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_7_3; like Mac OS X) AppleWebKit/534.32 (KHTML, like Gecko) Chrome/55.0.2167.246 Mobile Safari/534.0"
+firefox,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_9_8) Gecko/20100101 Firefox/53.5
+mac,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_1; en-US) AppleWebKit/535.28 (KHTML, like Gecko) Chrome/52.0.1265.258 Safari/533"
+chrome,"Mozilla/5.0 (U; Linux x86_64) AppleWebKit/533.39 (KHTML, like Gecko) Chrome/51.0.1920.105 Safari/601"
+linux,Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20100101 Firefox/70.6
+edge,"Mozilla/5.0 (Windows NT 10.1; x64) AppleWebKit/601.12 (KHTML, like Gecko) Chrome/47.0.3900.383 Safari/537.2 Edge/8.94546"
+edge,"Mozilla/5.0 (Windows; Windows NT 10.1; x64; en-US) AppleWebKit/601.33 (KHTML, like Gecko) Chrome/51.0.2713.188 Safari/535.8 Edge/9.68588"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_9; like Mac OS X) AppleWebKit/602.4 (KHTML, like Gecko) Chrome/49.0.3517.121 Mobile Safari/533.5"
+windows,Mozilla/5.0 (compatible; MSIE 10.0; Windows; U; Windows NT 10.5; WOW64 Trident/6.0)
+windows,Mozilla/5.0 (compatible; MSIE 9.0; Windows; Windows NT 6.2;; en-US Trident/5.0)
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 11_7_4; like Mac OS X) AppleWebKit/601.29 (KHTML, like Gecko) Chrome/53.0.1909.351 Mobile Safari/601.7"
+android,"Mozilla/5.0 (Linux; Android 4.4.1; E:number:20-23:00 Build/24.0.A.1.34) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/47.0.1019.358 Mobile Safari/533.4"
+firefox,Mozilla/5.0 (Windows NT 6.1; WOW64) Gecko/20130401 Firefox/48.7
+linux,"Mozilla/5.0 (Linux; Linux i551 x86_64) AppleWebKit/534.42 (KHTML, like Gecko) Chrome/51.0.2556.234 Safari/533"
+chrome,"Mozilla/5.0 (Windows NT 6.3;) AppleWebKit/534.32 (KHTML, like Gecko) Chrome/55.0.3728.332 Safari/602"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_1_8; like Mac OS X) AppleWebKit/534.12 (KHTML, like Gecko) Chrome/51.0.3123.161 Mobile Safari/600.7"
+android,"Mozilla/5.0 (Linux; Android 7.0; GT-I9700 Build/KTU84P) AppleWebKit/602.2 (KHTML, like Gecko) Chrome/48.0.2854.126 Mobile Safari/603.1"
+windows,"Mozilla/5.0 (Windows NT 6.0;) AppleWebKit/602.22 (KHTML, like Gecko) Chrome/53.0.2569.123 Safari/600.6 Edge/11.48502"
+mac,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_0_1; en-US) Gecko/20100101 Firefox/55.4
+edge,"Mozilla/5.0 (Windows; U; Windows NT 10.4; Win64; x64; en-US) AppleWebKit/603.30 (KHTML, like Gecko) Chrome/55.0.1425.204 Safari/534.3 Edge/18.50716"
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 8_0_3) AppleWebKit/602.16 (KHTML, like Gecko) Chrome/49.0.2270.254 Safari/603"
+chrome,"Mozilla/5.0 (Windows; U; Windows NT 10.1; WOW64; en-US) AppleWebKit/600.10 (KHTML, like Gecko) Chrome/52.0.2711.362 Safari/603"
+android,"Mozilla/5.0 (Linux; Android 5.0.2; Lenovo A7000-a Build/LRX21M;) AppleWebKit/537.5 (KHTML, like Gecko) Chrome/52.0.3077.178 Mobile Safari/536.7"
+mac,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_2_7; en-US) Gecko/20100101 Firefox/66.3
+chrome,"Mozilla/5.0 (Windows; Windows NT 10.4; x64; en-US) AppleWebKit/602.33 (KHTML, like Gecko) Chrome/53.0.3081.184 Safari/602"
+mobile,"Mozilla/5.0 (Android; Android 5.0.2; SM-A800F Build/LRX22G) AppleWebKit/601.44 (KHTML, like Gecko) Chrome/47.0.1007.315 Mobile Safari/535.6"
+windows,Mozilla/5.0 (Windows; Windows NT 10.0; WOW64) Gecko/20100101 Firefox/69.5
+mac,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_8) AppleWebKit/603.16 (KHTML, like Gecko) Chrome/47.0.3709.389 Safari/603"
+mobile,"Mozilla/5.0 (Linux; U; Android 4.4; SAMSUNG-SGH-I337 Build/KOT49H) AppleWebKit/603.14 (KHTML, like Gecko) Chrome/50.0.2914.310 Mobile Safari/603.4"
+iphone,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_7_0; like Mac OS X) AppleWebKit/602.7 (KHTML, like Gecko) Chrome/53.0.1434.399 Mobile Safari/601.0"
+mobile,"Mozilla/5.0 (Android; Android 5.0.1; SAMSUNG SM-G920FQ Build/LRX21T) AppleWebKit/603.2 (KHTML, like Gecko) Chrome/55.0.2885.214 Mobile Safari/602.1"
+firefox,Mozilla/5.0 (Windows; Windows NT 6.2; WOW64; en-US) Gecko/20100101 Firefox/51.9
+linux,Mozilla/5.0 (Linux i570 ) Gecko/20100101 Firefox/60.2
+edge,"Mozilla/5.0 (Windows; U; Windows NT 10.5; WOW64; en-US) AppleWebKit/600.4 (KHTML, like Gecko) Chrome/49.0.1843.169 Safari/535.0 Edge/10.51040"
+android,"Mozilla/5.0 (Linux; U; Android 6.0; SM-G920L Build/MDB08I) AppleWebKit/602.7 (KHTML, like Gecko) Chrome/51.0.1144.324 Mobile Safari/603.2"
+android,"Mozilla/5.0 (Android; Android 7.1; Nexus 8P Build/NPD90G) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/52.0.2812.283 Mobile Safari/534.8"
+windows,Mozilla/5.0 (Windows NT 6.3; Win64; x64; en-US) Gecko/20100101 Firefox/71.2
+firefox,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_2_1) Gecko/20100101 Firefox/60.6
+mobile,"Mozilla/5.0 (iPod; CPU iPod OS 9_1_9; like Mac OS X) AppleWebKit/600.39 (KHTML, like Gecko) Chrome/51.0.3203.323 Mobile Safari/533.3"
+linux,Mozilla/5.0 (Linux; U; Linux i676 ) Gecko/20100101 Firefox/53.1
+chrome,"Mozilla/5.0 (U; Linux x86_64; en-US) AppleWebKit/536.42 (KHTML, like Gecko) Chrome/48.0.3050.101 Safari/601"
+firefox,Mozilla/5.0 (Windows; Windows NT 10.3;; en-US) Gecko/20130401 Firefox/55.2
+firefox,Mozilla/5.0 (Windows NT 10.1; Win64; x64; en-US) Gecko/20130401 Firefox/49.4
+mac,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_3_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/53.0.2462.248 Safari/601"
+android,"Mozilla/5.0 (Linux; U; Android 4.4; XT1060 Build/SU6-7.3) AppleWebKit/601.17 (KHTML, like Gecko) Chrome/48.0.1884.109 Mobile Safari/534.9"
+windows,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.3; x64 Trident/4.0)
+chrome,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_5; en-US) AppleWebKit/535.42 (KHTML, like Gecko) Chrome/54.0.2293.271 Safari/603"
+explorer,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Win64; x64; en-US Trident/4.0)
+windows,"Mozilla/5.0 (Windows NT 10.5; WOW64; en-US) AppleWebKit/534.41 (KHTML, like Gecko) Chrome/48.0.3692.102 Safari/537"
+chrome,"Mozilla/5.0 (Windows; U; Windows NT 10.0; x64; en-US) AppleWebKit/602.26 (KHTML, like Gecko) Chrome/47.0.1164.324 Safari/537"

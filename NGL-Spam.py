@@ -2,13 +2,26 @@ import requests
 import os
 import platform
 from colorama import Fore, Style, init
+import csv
 import uuid
-from fake_useragent import UserAgent
+import random
+import time
  
 init(autoreset=True)
-ua = UserAgent()
 
+user_agents = []
+
+    
+with open('user-agent/1.csv', 'r', errors='ignore') as file:
+    csv_reader = csv.DictReader(file)
+    user_agents = [row['useragent'] for row in csv_reader]
+    
+with open('user-agent/2.csv', 'r', errors='ignore') as file:
+    csv_reader = csv.DictReader(file)
+    user_agents = [row['useragent'] for row in csv_reader]
+    
 def post(trgt, msg, count):
+    
     try:    
         operating_system = platform.system()
 
@@ -42,7 +55,7 @@ def post(trgt, msg, count):
                 'sec-fetch-dest': 'empty',
                 'sec-fetch-mode': 'cors',
                 'sec-fetch-site': 'same-origin',
-                'user-agent': str(ua.random),
+                'user-agent': str(random.choice(user_agents)),
                 'x-requested-with': 'XMLHttpRequest',
             }
 
@@ -64,7 +77,7 @@ def post(trgt, msg, count):
                     print(f"{Fore.RED}[+]Failed-{i}{Style.RESET_ALL}")
             else:
                 break
-            
+            time.sleep(0.5)
     except KeyboardInterrupt:
         print(f"{Fore.CYAN}Thank You :){Style.RESET_ALL}")
 
