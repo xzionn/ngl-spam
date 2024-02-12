@@ -109,5 +109,12 @@ def main():
         confirm = input("do you want to continue?(y/n)").lower()
         if confirm != "y":
             break
+        else:
+            if operating_system == 'Windows':
+                os.system('cls')
+            elif operating_system == 'Linux' or operating_system == 'Darwin':
+                os.system('clear')
+            elif operating_system == 'Android':
+                os.system('clear')
         
 main()
