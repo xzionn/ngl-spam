@@ -6,7 +6,7 @@ This tool is used to send spam ngl messages to someone like your friend/girlfrie
 ## For the first installation
 
 ```bash
-  pip install colorama requests fake_useragent
+  pip install colorama requests
 ```
 OR
 
